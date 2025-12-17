@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,4 +10,4 @@ redirect_from:
 
 📄 **[Download CV (PDF)](/files/Kexin_Song_CV.pdf)**
 
-Last updated: June 2025
+Last updated: Dec 2025
