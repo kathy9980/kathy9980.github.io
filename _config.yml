@@ -18,7 +18,8 @@ repository: "kathy9980/kathy9980.github.io"
 # Author Sidebar
 # =========================
 author:
-  avatar: "https://github.com/kathy9980/kathy9980.github.io/blob/master/Kexin_Song.jpg?raw=true"
+  avatar: "/images/profile.jpeg"
+
   name: "Kexin Song"
   bio: "Ph.D. Candidate | Remote Sensing & Geospatial AI"
   location: "Storrs, CT, USA"
