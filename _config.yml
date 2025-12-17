@@ -10,8 +10,9 @@ name: &name "Kexin Song"
 description: &description "Remote Sensing | Geospatial AI | Forest Resilience"
 
 url: "https://kathy9980.github.io"
-baseurl: "/personal-web-test"
-repository: "kathy9980/personal-web-test"
+baseurl: ""
+repository: "kathy9980/kathy9980.github.io"
+
 
 # =========================
 # Author Sidebar
