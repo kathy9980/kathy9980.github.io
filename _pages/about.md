@@ -1,5 +1,5 @@
 ---
-title: "Kexin Song"
+title: ""
 permalink: /
 author_profile: true
 ---
