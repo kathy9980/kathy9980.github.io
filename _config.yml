@@ -17,7 +17,7 @@ repository: "kathy9980/personal-web-test"
 # Author Sidebar
 # =========================
 author:
-  avatar: "{{ site.baseurl }}/images/profile.jpeg"
+  avatar: "images/profile.jpeg"
   name: "Kexin Song"
   bio: "Ph.D. Candidate | Remote Sensing & Geospatial AI"
   location: "Storrs, CT, USA"
