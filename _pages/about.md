@@ -4,8 +4,6 @@ permalink: /
 author_profile: true
 ---
 
-## About Me
-
 My name is **Kexin Song**. I am a Ph.D. candidate in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), working with the **Global Environmental Remote Sensing Laboratory (GERS Lab)** led by Dr. Zhe Zhu. I will join the **Yale School of the Environment** as a Postdoctoral Associate in 2026.
 
 My research focuses on using **satellite remote sensing, time-series analysis, and geospatial artificial intelligence (GeoAI)** to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. I integrate **multi-sensor data fusion**, dense satellite time series, and **explainable machine learning** to extract reliable and interpretable signals from large-scale, heterogeneous Earth observation data. More details can be found on the **Research** page.
