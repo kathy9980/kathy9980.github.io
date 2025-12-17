@@ -10,7 +10,7 @@ name: &name "Kexin Song"
 description: &description "Remote Sensing | Geospatial AI | Forest Resilience"
 
 url: "https://kathy9980.github.io"
-baseurl: ""
+baseurl: "/personal-web-test"
 repository: "kathy9980/personal-web-test"
 
 # =========================
@@ -24,18 +24,8 @@ author:
   employer: "University of Connecticut"
   email: "kexin.song@uconn.edu"
 
-  # Academic profiles
   googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid:
-  researchgate:
-
-  # Code
   github: "GERSL"
-
-  # Social (blank = hidden)
-  linkedin:
-  twitter:
-  bluesky:
 
 # =========================
 # Site Behavior
@@ -53,9 +43,9 @@ atom_feed:
   hide: false
 
 # =========================
-# SEO / Apple / Social
+# SEO / Social
 # =========================
-og_image: "/images/profile.jpg"
+og_image: "/images/profile.jpeg"
 og_description: "Academic website of Kexin Song"
 
 social:
@@ -66,7 +56,7 @@ social:
     - "https://github.com/GERSL"
 
 # =========================
-# Analytics (disabled)
+# Analytics
 # =========================
 analytics:
   provider: false
@@ -75,7 +65,6 @@ analytics:
 # Include / Exclude
 # =========================
 include:
-  - .htaccess
   - _pages
   - files
 
@@ -85,6 +74,7 @@ exclude:
   - vendor
   - Gemfile
   - Dockerfile
+  - docker-compose.yml
   - package.json
   - README
   - tmp
@@ -114,10 +104,6 @@ collections:
   publications:
     output: true
     permalink: /publications/:path/
-  portfolio:
-    output: false
-  talks:
-    output: false
 
 # =========================
 # Defaults
@@ -140,11 +126,11 @@ sass:
 # =========================
 # Output
 # =========================
-permalink: /:title/
+permalink: /:categories/:title/
 timezone: America/New_York
 
 # =========================
-# Plugins (GitHub Pages safe)
+# Plugins (GitHub Pages SAFE)
 # =========================
 plugins:
   - jekyll-feed
