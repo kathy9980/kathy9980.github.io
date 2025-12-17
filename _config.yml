@@ -17,7 +17,7 @@ repository: "kathy9980/personal-web-test"
 # Author Sidebar
 # =========================
 author:
-  avatar: "images/profile.jpeg"
+  avatar: "https://github.com/kathy9980/kathy9980.github.io/blob/master/Kexin_Song.jpg?raw=true"
   name: "Kexin Song"
   bio: "Ph.D. Candidate | Remote Sensing & Geospatial AI"
   location: "Storrs, CT, USA"
