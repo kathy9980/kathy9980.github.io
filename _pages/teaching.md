@@ -1,11 +1,8 @@
 ---
-layout: archive
+title: "Teaching Philosophy"
 permalink: /teaching/
 author_profile: true
 ---
-
-## Teaching Philosophy
-
 I view teaching as an opportunity to equip students with the conceptual foundations, technical skills, and critical thinking abilities needed to address complex environmental challenges. My approach emphasizes student motivation, hands-on learning, and ethical use of artificial intelligence as a learning tool rather than a substitute for reasoning.
 
 I connect course content to real-world applications, incorporate active learning strategies such as project-based labs and group discussions, and provide visual and interactive materials to support students from diverse backgrounds.
