@@ -1,11 +1,8 @@
 ---
-layout: archive
+title: "Research Overview"
 permalink: /research/
 author_profile: true
 ---
-
-## Research Overview
-
 My research focuses on satellite remote sensing, time-series analysis, and geospatial artificial intelligence (GeoAI) to investigate forest disturbance, resilience, and ecosystem dynamics under environmental change.
 
 I integrate multi-sensor satellite data fusion, dense time-series modeling, and explainable machine learning to extract reliable and interpretable signals from large-scale Earth observation datasets.
