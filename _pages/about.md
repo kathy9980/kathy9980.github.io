@@ -1,3 +1,9 @@
+---
+title: "Kexin Song"
+permalink: /
+author_profile: true
+---
+
 ## About Me
 
 My name is **Kexin Song**. I am a Ph.D. candidate in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), working with the **Global Environmental Remote Sensing Laboratory (GERS Lab)** led by Dr. Zhe Zhu. I will join the **Yale School of the Environment** as a Postdoctoral Associate in 2026.
