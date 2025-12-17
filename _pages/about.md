@@ -8,4 +8,4 @@ Before joining UConn, I received my **M.S. degree from the University of Miami**
 
 In my spare time, I enjoy hiking, outdoor activities, and exploring data-driven approaches to understanding Earth system dynamics.
 
-*Last updated on: Jun 04, 2025*
+*Last updated on: Dec 17, 2025*
