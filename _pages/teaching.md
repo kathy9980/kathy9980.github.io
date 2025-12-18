@@ -13,21 +13,20 @@ I connect course content to real-world applications, incorporate active learning
 **Remote Sensing of Environment (NRE 3535)**  
 University of Connecticut | Fall 2023
 
-- Led weekly laboratory sessions on satellite data acquisition, visualization, and analysis using ENVI  
-- Delivered guest lectures on multispectral remote sensing and satellite geometry  
-- Organized group discussions and student presentations  
-- Graded assignments and provided constructive feedback to support student learning  
+- Led weekly laboratory sessions on satellite data acquisition, visualization, and analysis using ENVI.  
+- Delivered guest lectures on multispectral remote sensing and satellite geometry.  
+- Organized group discussions and student presentations.  
+- Graded assignments and provided constructive feedback to support student learning.  
 
 ### Research Mentorship
 
-- Mentored undergraduate and graduate students on projects involving satellite time-series analysis, machine learning, and forest disturbance monitoring  
+- Mentored undergraduate and graduate students on projects involving satellite time-series analysis, machine learning, and forest disturbance monitoring.  
 
 ## Future Teaching Interests
 
 I am interested in teaching courses in:
 - Remote Sensing of the Environment  
 - Geographic Information Systems (GIS)  
-- Environmental Data Science and Geospatial AI  
-- AI and Big Data Applications in Environmental Science  
+- Environmental Data Science and Geospatial AI
 
 I am also enthusiastic about developing new courses that integrate satellite remote sensing, machine learning, and reproducible research workflows using Python, GIS, and cloud-based platforms.
