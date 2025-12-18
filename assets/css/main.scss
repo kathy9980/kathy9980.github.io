@@ -40,25 +40,4 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-
-   /* =========================
-   Custom overrides
-   ========================= */
-
-/* Top navigation bar background */
-.masthead {
-  background-color: #f2f2f2 !important; /* light grey */
-  border-bottom: 1px solid #e0e0e0;
-}
-
-/* Menu links color */
-.masthead__menu-item a {
-  color: #333 !important;
-}
-
-/* Hover state */
-.masthead__menu-item a:hover {
-  color: #000 !important;
-}
-
 ;
