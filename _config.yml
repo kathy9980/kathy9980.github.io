@@ -49,7 +49,7 @@ atom_feed:
 # =========================
 # SEO / Social
 # =========================
-og_image: "/images/profile.jpeg"
+og_image: "/images/self.png"
 og_description: "Academic website of Kexin Song"
 
 social:
