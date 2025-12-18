@@ -3,6 +3,7 @@ title: "Research Overview"
 permalink: /research/
 author_profile: true
 ---
+
 My research focuses on satellite remote sensing, time-series analysis, and geospatial artificial intelligence (GeoAI) to investigate forest disturbance, resilience, and ecosystem dynamics under environmental change.
 
 I integrate multi-sensor satellite data fusion, dense time-series modeling, and explainable machine learning to extract reliable and interpretable signals from large-scale Earth observation datasets.
@@ -10,7 +11,7 @@ I integrate multi-sensor satellite data fusion, dense time-series modeling, and 
 ## Key Research Themes
 
 ### Multi-sensor Data Fusion
-I developed the Time-series-based Image Fusion (TIF) algorithm to harmonize Landsat and Sentinel-2 imagery into a dense, 10 m optical time series. This work has been published in *Remote Sensing of Environment* and is being integrated into NASA’s Harmonized Landsat and Sentinel-2 (HLS) pipeline.
+I developed the Time-series-based Image Fusion (TIF) algorithm to harmonize Landsat and Sentinel-2 imagery into a dense, 10 m optical time series. This work has been published in *[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.115035)* and is being integrated into NASA’s Harmonized Landsat and Sentinel-2 (HLS) pipeline.
 
 ### Forest Resilience and Disturbance
 My work evaluates satellite-derived resilience indicators using field observations and time-series analysis, with a focus on understanding forest recovery following drought, insect outbreaks, and other disturbances.
