@@ -6,5 +6,3 @@ redirect_from:
   - /resume
 ---
 📄 **[Download CV (PDF)](/files/Kexin_Song_CV.pdf)**
-
-Last updated: Dec 2025
