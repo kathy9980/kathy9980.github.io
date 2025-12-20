@@ -8,14 +8,16 @@ My research focuses on satellite remote sensing, time-series analysis, and geosp
 
 ## Key Research Themes
 
-### Multi-sensor Data Fusion
+### Multi-sensor Satellite Data Fusion
 I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize Landsat and Sentinel-2 imagery into a dense 10 m optical time series. This work has been published in *[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.115035)* and is being integrated into NASA’s Harmonized Landsat and Sentinel-2 (HLS) pipeline.
 
-### Forest Resilience and Disturbance
-My work evaluates satellite-derived resilience indicators using field observations and time-series analysis, with a focus on understanding forest health and ecosystem stability following drought, insect outbreaks, and other disturbances.
-
-### Explainable Machine Learning and GeoAI
-I apply machine learning models together with explainability tools (e.g., SHAP) to identify drivers of forest disturbance, resilience change, and infrastructure vulnerability.
+### Forest Resilience and Disturbance Analysis
+My work evaluates the reliability of satellite-derived resilience indicators for large-scale ecosystem stability analysis, with a focus on understanding forest health and resilience under diverse natural and anthropogenic stressors.
 
 ### Vegetation Risk and Infrastructure Vulnerability
-In collaboration with the StormWise program and the Eversource Energy Center, I develop machine learning models that integrate satellite, aerial, LiDAR, and infrastructure data to quantify vegetation-related power outage risk. These tools translate environmental monitoring into actionable insights for utility vegetation management and climate adaptation.
+In collaboration with the StormWise program and the Eversource Energy Center, I developed machine learning (ML) models that integrate satellite, aerial, LiDAR, and infrastructure data to quantify vegetation-related power outage risk. These tools translate environmental monitoring into actionable insights for utility vegetation management and climate adaptation.
+
+### GeoAI, Eplainable Machine Learning, and Causal Inference
+I am appling machine learning models together with explainability tools (e.g., SHAP and LIME) and causal inference frameworksto identify the key drivers of global forest resilience change and to improve the interpretability and transparency of data-driven ecosystem studies.
+
+
