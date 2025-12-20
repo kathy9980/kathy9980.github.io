@@ -25,7 +25,5 @@ In my spare time, I enjoy hiking, playing badminton, and reading books on data-d
 
 
 
-<div style="text-align: right;">
-<em>Last updated on: Dec 17, 2025</em>
-</div>
+*Last updated on: Dec 17, 2025*
 
