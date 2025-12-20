@@ -12,7 +12,7 @@ My research focuses on satellite remote sensing, time-series analysis, and geosp
 I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize Landsat and Sentinel-2 imagery into a dense 10 m optical time series. This work has been published in *[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.115035)* and is being integrated into NASA’s Harmonized Landsat and Sentinel-2 (HLS) pipeline.
 
 ### Forest Resilience and Disturbance
-My work evaluates satellite-derived resilience indicators using field observations and time-series analysis, with a focus on understanding forest recovery following drought, insect outbreaks, and other disturbances.
+My work evaluates satellite-derived resilience indicators using field observations and time-series analysis, with a focus on understanding forest health and ecosystem stability following drought, insect outbreaks, and other disturbances.
 
 ### Explainable Machine Learning and GeoAI
 I apply machine learning models together with explainability tools (e.g., SHAP) to identify drivers of forest disturbance, resilience change, and infrastructure vulnerability.
