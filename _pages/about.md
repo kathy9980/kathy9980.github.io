@@ -10,6 +10,6 @@ My research focuses on using **satellite remote sensing, time-series analysis, a
 
 Before joining UConn, I received my **M.S. degree from the University of Miami**, where I worked with Dr. Peter Minnett on evaluating passive microwave and reanalysis products for Arctic sea-ice concentration. I earned my **B.S. degree from Ocean University of China**, with training in marine technology and remote sensing.
 
-In my spare time, I enjoy hiking, outdoor activities, and exploring data-driven approaches to understanding Earth system dynamics.
+In my spare time, I enjoy hiking, playing badminton, and reading books on data-driven approaches to understanding my favorite planet, Earth.
 
 *Last updated on: Dec 17, 2025*
