@@ -25,9 +25,9 @@ I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize 
 My work evaluates the reliability of satellite-derived resilience indicators for large-scale ecosystem stability analysis, with a focus on understanding forest health and resilience under diverse natural and anthropogenic stressors.
 
 ### Vegetation Risk and Infrastructure Vulnerability Assessment
-In collaboration with the [StormWise](https://stormwise.uconn.edu/) program and the Eversource Energy Center, I developed machine learning (ML) models that integrate satellite, aerial, LiDAR, and infrastructure data to quantify vegetation-related power outage risks. This work translates environmental monitoring into actionable insights for utility vegetation management and storm damage mitigation. Check the [GEE app](https://dynamic-amulet-244714.projects.earthengine.app/view/tree-failure-risk-map-site-01) for details.
+In collaboration with the [StormWise](https://stormwise.uconn.edu/) program and the Eversource Energy Center, I developed machine learning (ML) models that integrate satellite, aerial, LiDAR, and infrastructure data to quantify vegetation-related power outage risks. This work translates environmental monitoring into actionable insights for utility vegetation management and community-level storm damage mitigation.
 <br>
-![Predicted roadside tree failure risk map](/images/Eversource-GEE-fig.png){:height="85%" width="85%"}
+[![Predicted roadside tree failure risk map](/images/Eversource-GEE-fig.png)](https://dynamic-amulet-244714.projects.earthengine.app/view/tree-failure-risk-map-site-01){:height="85%" width="85%"}
 <br>
 **Fig. 2.** Predicted roadside tree failure risk GEE map.
 
