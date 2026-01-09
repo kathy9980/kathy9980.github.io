@@ -28,7 +28,7 @@ My name is <strong>Kexin Song</strong>. I am a Ph.D. in the Department of Natura
 
 
 <p>
-My research focuses on applying <strong>satellite remote sensing, time-series analysis, and geospatial artificial intelligence (GeoAI)</strong> to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. I integrate <strong>multi-sensor data fusion</strong>, dense satellite time series, and <strong>explainable machine learning</strong> to extract reliable and interpretable signals from large-scale, heterogeneous Earth observation datasets. Additional details are available on the <strong>Research</strong> page.
+My research focuses on applying satellite remote sensing, time-series analysis, and geospatial artificial intelligence (GeoAI) to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. I integrate multi-sensor data fusion, dense satellite time series, and explainable machine learning to extract reliable and interpretable signals from large-scale, heterogeneous Earth observation datasets. Additional details are available on the <strong>Research</strong> page.
 </p>
 
 <p>
@@ -39,7 +39,7 @@ Before joining UConn, I received my <strong>M.S. degree from the University of M
   </a>
 </strong>
  on evaluating passive microwave and reanalysis products for Arctic sea-ice concentration. 
-I earned my <strong>B.S. degree from Ocean University of China</strong>, with formal training in marine technology and remote sensing.
+I earned my <strong>B.S. degree from Ocean University of China</strong>, with formal training in marine science and remote sensing.
 </p>
 
 
