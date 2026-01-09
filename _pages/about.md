@@ -6,19 +6,19 @@ author_profile: true
 <div style="text-align: justify;">
 
 <p>
-My name is <strong>Kexin Song</strong>. I am a Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), working with the 
-<strong>
-  <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
-    Global Environmental Remote Sensing Laboratory (GERS Lab)
-  </a>
-</strong>
- led by 
+My name is <strong>Kexin Song</strong>. I hold a Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), where I worked with 
 <strong>
   <a href="https://nre.uconn.edu/zhe-zhu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
     Dr. Zhe Zhu
   </a>
+</strong>
+at the 
+<strong>
+  <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
+    Global Environmental Remote Sensing Laboratory (GERS Lab)
+  </a>
 </strong>.
- I will join the <strong>Yale School of the Environment</strong> as a Postdoctoral Associate in January 2026, working with <strong>Dr. Luke C. Sanford</strong> in the 
+I will join the <strong>Yale School of the Environment</strong> as a Postdoctoral Associate in January 2026, working with <strong>Dr. Luke C. Sanford</strong> in the 
 <strong>
   <a href="https://sanford-lab.github.io/" target="_blank" style="color:#1a73e8; text-decoration:none;">
     SPIRES Lab
@@ -28,7 +28,13 @@ My name is <strong>Kexin Song</strong>. I am a Ph.D. in the Department of Natura
 
 
 <p>
-My research focuses on applying satellite remote sensing, time-series analysis, and geospatial artificial intelligence (GeoAI) to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. I integrate multi-sensor data fusion, dense satellite time series, and explainable machine learning to extract reliable and interpretable signals from large-scale, heterogeneous Earth observation datasets. Additional details are available on the <strong>Research</strong> page.
+My research develops scalable frameworks to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. By integrating multi-sensor remote sensing, ecosystem ecology, and explainable geospatial artificial intelligence (GeoAI), I deliver reliable and interpretable information to support land management, infrastructure resilience, and climate-informed decision-making. Additional details are available on the 
+<strong>
+  <a href="https://kathy9980.github.io/research/" target="_blank" style="color:#1a73e8; text-decoration:none;">
+    Research
+  </a>
+</strong>
+page.
 </p>
 
 <p>
