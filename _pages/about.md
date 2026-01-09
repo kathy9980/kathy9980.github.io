@@ -18,7 +18,7 @@ My name is <strong>Kexin Song</strong>. I am a Ph.D. in the Department of Natura
     Dr. Zhe Zhu
   </a>
 </strong>.
- I will join the <strong>Yale School of the Environment</strong> as a Postdoctoral Associate in January 2026, working with <strong>Luke C. Sanford</strong> in the 
+ I will join the <strong>Yale School of the Environment</strong> as a Postdoctoral Associate in January 2026, working with <strong>Dr. Luke C. Sanford</strong> in the 
 <strong>
   <a href="https://sanford-lab.github.io/" target="_blank" style="color:#1a73e8; text-decoration:none;">
     SPIRES Lab
@@ -32,8 +32,16 @@ My research focuses on applying <strong>satellite remote sensing, time-series an
 </p>
 
 <p>
-Before joining UConn, I received my <strong>M.S. degree from the University of Miami</strong>, where I worked with Dr. Peter Minnett on evaluating passive microwave and reanalysis products for Arctic sea-ice concentration. I earned my <strong>B.S. degree from Ocean University of China</strong>, with formal training in marine technology and remote sensing.
+Before joining UConn, I received my <strong>M.S. degree from the University of Miami</strong>, where I worked with 
+<strong>
+  <a href="https://scholarship.miami.edu/esploro/profile/peter_minnett/overview" target="_blank" style="color:#1a73e8; text-decoration:none;">
+    Dr. Peter Minnett
+  </a>
+</strong>
+ on evaluating passive microwave and reanalysis products for Arctic sea-ice concentration. 
+I earned my <strong>B.S. degree from Ocean University of China</strong>, with formal training in marine technology and remote sensing.
 </p>
+
 
 <p>
 In my spare time, I enjoy hiking, playing badminton, and reading books on data-driven approaches to understanding my favorite planet, Earth.
