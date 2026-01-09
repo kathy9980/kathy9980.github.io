@@ -28,7 +28,7 @@ I will join the <strong>Yale School of the Environment</strong> as a Postdoctora
 
 
 <p>
-My research develops scalable frameworks to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. By integrating multi-sensor remote sensing, ecosystem ecology, and AI/ML, I deliver reliable and interpretable information to support land management, infrastructure resilience, and big-data-driven decision-making. Additional details are available on the 
+My research builds scalable, application-driven frameworks to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. By integrating multi-sensor satellite data, ecosystem ecology, and AI/ML, I convert large-scale Earth observation data into decision-support tools for land managers, utilities, and forest carbon stakeholders. Additional details are available on the 
 <strong>
   <a href="https://kathy9980.github.io/research/" target="_blank" style="color:#1a73e8; text-decoration:none;">
     Research
