@@ -8,7 +8,7 @@ My research focuses on satellite remote sensing, time-series analysis, and geosp
 
 ## Key Research Themes
 
-### Multi-sensor Satellite Data Fusion
+### Multi-sensor Satellite Data Fusion for Advanced Land Monitoring
 I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize Landsat and Sentinel-2 imagery into a dense 10-m optical time series. This work has been published in *[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.115035)* and is being integrated into NASA’s Harmonized Landsat and Sentinel-2 (HLS) pipeline.
 
 <br>
@@ -21,10 +21,10 @@ I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize 
 <br>
 **Fig. 2.** Workflow of the Time-series-based Image Fusion (TIF) algorithm.
 
-### Forest Resilience and Disturbance Analysis
+### Global Forest Resilience and Disturbance Analysis
 My work evaluates the reliability of satellite-derived resilience indicators for large-scale ecosystem stability analysis, with a focus on understanding forest health and resilience under diverse natural and anthropogenic stressors.
 
-### Vegetation Risk and Infrastructure Vulnerability
+### Vegetation Risk and Infrastructure Vulnerability Assessment
 In collaboration with the StormWise program and the Eversource Energy Center, I developed machine learning (ML) models that integrate satellite, aerial, LiDAR, and infrastructure data to quantify vegetation-related power outage risks. These tools translate environmental monitoring into actionable insights for utility vegetation management and climate adaptation.
 
 ### GeoAI, Explainable Machine Learning, and Causal Inference
