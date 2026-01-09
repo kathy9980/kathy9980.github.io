@@ -8,13 +8,13 @@ author_profile: true
 <p>
 My name is <strong>Kexin Song</strong>. I am a Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), working with the 
 <strong>
-  <a href="https://gerslab.uconn.edu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
+  <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
     Global Environmental Remote Sensing Laboratory (GERS Lab)
   </a>
 </strong>
  led by 
 <strong>
-  <a href="https://nrem.uconn.edu/person/zhe-zhu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
+  <a href="https://nre.uconn.edu/zhe-zhu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
     Dr. Zhe Zhu
   </a>
 </strong>.
