@@ -6,7 +6,12 @@ author_profile: true
 <div style="text-align: justify;">
 
 <p>
-My name is <strong>Kexin Song</strong>. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), where I worked with 
+My name is <strong>Kexin Song</strong>. I am currently a <strong>Postdoctoral Associate at the Yale School of the Environment</strong>, where I work with <strong>Dr. Luke C. Sanford</strong> in the 
+<strong>
+  <a href="https://sanford-lab.github.io/" target="_blank" style="color:#1a73e8; text-decoration:none;">
+    SPIRES Lab
+  </a>
+</strong>. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), where I worked with 
 <strong>
   <a href="https://nre.uconn.edu/zhe-zhu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
     Dr. Zhe Zhu
@@ -16,12 +21,6 @@ at the
 <strong>
   <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#1a73e8; text-decoration:none;">
     Global Environmental Remote Sensing Laboratory (GERS Lab)
-  </a>
-</strong>.
-I am currently a <strong>Postdoctoral Associate at the Yale School of the Environment</strong>, where I work with <strong>Dr. Luke C. Sanford</strong> in the 
-<strong>
-  <a href="https://sanford-lab.github.io/" target="_blank" style="color:#1a73e8; text-decoration:none;">
-    SPIRES Lab
   </a>
 </strong>.
 </p>
