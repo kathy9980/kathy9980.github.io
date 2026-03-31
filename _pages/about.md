@@ -26,7 +26,7 @@ page.
 </p>
 
 <p>
-In my spare time, I enjoy hiking with my dog, playing badminton, and reading books on data-driven approaches to understanding my favorite planet, Earth.
+Outside of research, I enjoy hiking, playing badminton, spending time with my dog, and reading about data-driven ways to understand Earth — my favorite planet.
 </p>
 
 <h2>Education</h2>
