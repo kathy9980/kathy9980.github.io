@@ -12,9 +12,7 @@ My name is <strong>Kexin Song</strong>. I am currently a <strong>Postdoctoral As
     SPIRES Lab</a></strong>. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), where I worked with Dr. Zhe Zhu at the 
 <strong>
   <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#0000EE; text-decoration:underline;">
-    Global Environmental Remote Sensing Laboratory (GERS Lab)
-  </a>
-</strong>.
+    Global Environmental Remote Sensing Laboratory (GERS Lab)</a></strong>.
 </p>
 
 
@@ -22,9 +20,7 @@ My name is <strong>Kexin Song</strong>. I am currently a <strong>Postdoctoral As
 My research builds scalable, application-driven frameworks to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. By integrating <strong>multi-sensor satellite data fusion, ecosystem ecology, and AI/ML</strong>, I convert large-scale Earth observation data into decision-support tools for land managers, utilities, and forest carbon stakeholders. Additional details are available on the 
 <strong>
   <a href="https://kathy9980.github.io/research/" target="_blank" style="color:#0000EE; text-decoration:none;">
-    Research
-  </a>
-</strong>
+    Research</a></strong>
 page.
 </p>
 
