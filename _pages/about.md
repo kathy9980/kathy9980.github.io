@@ -9,8 +9,7 @@ author_profile: true
 My name is <strong>Kexin Song</strong>. I am currently a <strong>Postdoctoral Associate at the Yale School of the Environment</strong>, where I work with Dr. Luke C. Sanford in the 
 <strong>
   <a href="https://sanford-lab.github.io/" target="_blank" style="color:#0000EE; text-decoration:underline;">
-    SPIRES Lab
-</strong>. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), where I worked with Dr. Zhe Zhu at the 
+    SPIRES Lab</a></strong>. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), where I worked with Dr. Zhe Zhu at the 
 <strong>
   <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#0000EE; text-decoration:underline;">
     Global Environmental Remote Sensing Laboratory (GERS Lab)
