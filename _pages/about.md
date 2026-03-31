@@ -10,7 +10,7 @@ My name is <strong>Kexin Song</strong>. I am currently a <strong>Postdoctoral As
 <strong>
   <a href="https://sanford-lab.github.io/" target="_blank" style="color:#286DC0; text-decoration:underline;">
   (SPIRES) Lab</a></strong> 
-to address social science questions with big spatiotemporal data. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), under the supervision of Dr. Zhe Zhu at the Global Environmental Remote Sensing Laboratory 
+to address <strong>social science questions with big spatiotemporal data and AI tools</strong>. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), under the supervision of Dr. Zhe Zhu at the Global Environmental Remote Sensing Laboratory 
 <strong>
   <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#286DC0; text-decoration:underline;">
   (GERS Lab)</a></strong>.
@@ -18,7 +18,7 @@ to address social science questions with big spatiotemporal data. I received my 
 
 
 <p>
-My research builds scalable, application-driven frameworks to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. By integrating <strong>multi-sensor satellite data fusion, ecosystem ecology, and AI/ML</strong>, I convert large-scale Earth observation data into decision-support tools for land managers, utilities, and forest carbon stakeholders. Additional details are available on the 
+My doctoral research builds scalable, application-driven frameworks to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. By integrating <strong>multi-sensor satellite data fusion, ecosystem ecology, and machine learning</strong>, I convert large-scale Earth observation data into decision-support tools for land managers, utilities, and forest carbon stakeholders. Additional details are available on the 
 <strong>
   <a href="https://kathy9980.github.io/research/" target="_blank" style="color:#286DC0; text-decoration:underline;">
     Research</a></strong>
