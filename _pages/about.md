@@ -6,14 +6,14 @@ author_profile: true
 <div style="text-align: justify;">
 
 <p>
-My name is <strong>Kexin Song</strong>. I am currently a <strong>Postdoctoral Associate at the Yale School of the Environment</strong>, where I work with Dr. Luke C. Sanford in the 
+My name is <strong>Kexin Song</strong>. I am currently a <strong>Postdoctoral Associate at the Yale School of the Environment</strong>, where I work with Dr. Luke C. Sanford in the Study of Politics and Institutions with Remote Environmental Sensing 
 <strong>
   <a href="https://sanford-lab.github.io/" target="_blank" style="color:#286DC0; text-decoration:underline;">
-    Study of Politics and Institutions with Remote Environmental Sensing (SPIRES) Lab</a></strong> 
-to address social science questions with big spatiotemporal data. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), under the supervision of Dr. Zhe Zhu at the 
+  (SPIRES) Lab</a></strong> 
+to address social science questions with big spatiotemporal data. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), under the supervision of Dr. Zhe Zhu at the Global Environmental Remote Sensing Laboratory 
 <strong>
   <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#286DC0; text-decoration:underline;">
-    Global Environmental Remote Sensing Laboratory (GERS Lab)</a></strong>.
+  (GERS Lab)</a></strong>.
 </p>
 
 
