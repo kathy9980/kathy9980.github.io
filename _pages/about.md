@@ -10,7 +10,6 @@ My name is <strong>Kexin Song</strong>. I am currently a <strong>Postdoctoral As
 <strong>
   <a href="https://sanford-lab.github.io/" target="_blank" style="color:#0000EE; text-decoration:underline;">
     SPIRES Lab
-  </a>
 </strong>. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), where I worked with Dr. Zhe Zhu at the 
 <strong>
   <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#0000EE; text-decoration:underline;">
