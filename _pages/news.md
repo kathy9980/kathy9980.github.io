@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2026
-**2026.06** New paper, *The Urban Pulse: Diagnosing the Urbanization Process as Spiky, Cyclical, and Asynchronous*, is now online in ***Proceedings of the National Academy of Sciences (PNAS)***.[Check it out here!](https://www.pnas.org/doi/10.1073/pnas.2537770123)
+**2026.06** New paper, *The Urban Pulse: Diagnosing the Urbanization Process as Spiky, Cyclical, and Asynchronous*, is now online in ***Proceedings of the National Academy of Sciences (PNAS)***. [Check it out here!](https://www.pnas.org/doi/10.1073/pnas.2537770123)
 
 **2026.05** New paper, *Physiological Fidelity of a Satellite-Derived Forest Resilience Indicator in the Amazon*, was accepted for publication in ***Nature Ecology & Evolution***.
 
