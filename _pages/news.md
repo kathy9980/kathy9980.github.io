@@ -9,7 +9,7 @@ author_profile: true
 
 **2026.05** New paper, *Physiological Fidelity of a Satellite-Derived Forest Resilience Indicator in the Amazon*, was accepted for publication in ***Nature Ecology & Evolution***.
 
-**2026.05** Attended the [**AI for Social Science Research Methods Workshop**]([https://www.nature.com/articles/s41586-026-10260-w](https://www.linkedin.com/posts/kexin-song-98b196149_ai-llm-geoai-activity-7463797779514036226-8J3f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFI2H6IBENSIQ03KLkJkRBppaUBc0rzOqS0)) at Yale University and presented research on GeoAI, remote sensing, and causal inference for conflict impact assessment. My poster was selected as one of three outstanding posters.
+**2026.05** Attended the [**AI for Social Science Research Methods Workshop**](https://www.linkedin.com/posts/kexin-song-98b196149_ai-llm-geoai-ugcPost-7463797776829833216-fMvh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPM4vsBGCM7srffXJdl8rNdbizuHiD7Xkg) at Yale University and presented research on GeoAI, remote sensing, and causal inference for conflict impact assessment. My poster was selected as one of three outstanding posters.
 
 **2026.04** New paper on satellite-derived human nighttime activity dynamics is now online in ***Nature***. [Check it out here!](https://www.nature.com/articles/s41586-026-10260-w)
 
