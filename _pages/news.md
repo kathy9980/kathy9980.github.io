@@ -27,7 +27,9 @@ author_profile: true
 
 **2024.12** Presented *Can We Reliably Measure Forest Resilience from Space?* at the AGU Fall Meeting.
 
+**2024.07** New paper, [*Stormwise: Innovative Forest Management to Promote Storm Resistance in Roadside Forests*](https://academic.oup.com/jof/article-abstract/122/4/398/7663603), is now online in *Journal of Forestry*, highlighting innovative management strategies to improve roadside forest and infrastructure resilience.
+
 **2024.04** Presented research on forest resilience dynamics following insect disturbances at the AAG Annual Meeting.
 
-**2024.01** New paper evaluating summertime sea-ice concentration products in the central Arctic is now online in *Earth and Space Science*. [Check it out here!](LINK)
+**2024.01** New paper evaluating summertime sea-ice concentration products in the central Arctic is now online in *Earth and Space Science*. [Check it out here!](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003214)
 
