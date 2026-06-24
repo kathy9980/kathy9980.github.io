@@ -67,7 +67,9 @@ social:
 # Analytics
 # =========================
 analytics:
-  provider: false
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-7SJCG7D4KW"
 
 # =========================
 # Include / Exclude
