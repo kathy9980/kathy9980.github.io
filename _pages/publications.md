@@ -70,13 +70,6 @@ Worthley, T., Bunce, A., Morzillo, A. T., Witharana, C., Zhu, Z., Cabral, J., Cr
 **Stormwise: Innovative Forest Management to Promote Storm Resistance in Roadside Forests.**  
 *Journal of Forestry*, **122**(4), 398–409.
 
----
-
-### 2017
-
-王冬，黄德森，刘洪刚，胡雅璐，**宋可馨**，刘润仲。（2017）  
-**海洋遥感卫星数据库建立与应用。**  
-《气象水文海洋仪器》，**34**(2)，40–45。
 
 ---
 
