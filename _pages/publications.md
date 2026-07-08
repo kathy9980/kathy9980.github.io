@@ -14,6 +14,13 @@ For the most up-to-date publication list, please visit my
 ## Peer-reviewed Journal Articles
 
 ### 2026
+
+**Song, K.***, Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J., Liu, Y., Tai, X., Fahey, R. T., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Leite, R., Bittencourt, P., & Zhu, Z. (2026).  
+**The Physiological Key to a Satellite-derived Forest Resilience Indicator: Evidence from Amazonian Forests.**  
+*Nature Ecology & Evolution*. **In press.**
+
+---
+
 Zhu, Z., Fragkias, M., Suh, J. W., McCoshan, E., Chen, L., **Song, K.**, Kong, J., Li, T., *et al.* (2026).  
 **The Urban Pulse: Diagnosing the urbanization process as spiky, cyclical, and asynchronous.**  
 *Proceedings of the National Academy of Sciences*, **123**(24), e2537770123.
@@ -73,55 +80,6 @@ Worthley, T., Bunce, A., Morzillo, A. T., Witharana, C., Zhu, Z., Cabral, J., Cr
 
 ---
 
-## Conference Proceedings
-
-### 2026
-
-Zhu, Z., Fragkias, M., Suh, J. W., McCoshan, E., Chen, L., **Song, K.**, Kong, J., Li, T., *et al.* (2026).  
-**The Urban Pulse: Diagnosing the urbanization process as spiky, cyclical, and asynchronous.**  
-*Proceedings of the National Academy of Sciences*, **123**(24), e2537770123.
-
----
-
-## Conference Abstracts
-
-### 2025
-
-Zhu, Z., Suh, J. W., Hong, F., **Song, K.**, Qiu, S., Yang, Z., Hedges, S. B. (2025).  
-**Mapping Caribbean Primary Forest Change Considering Disturbance History, Resilience, and 3D Structure.**  
-*AGU25.*
-
----
-
-### 2024
-
-**Song, K.**, Zhu, Z. (2024).  
-**Can We Reliably Measure Forest Resilience from Space?**  
-*AGU Fall Meeting Abstracts*, B23K-01.
-
----
-
-**Song, K.**, Zhu, Z. (2024).  
-**Unveiling Forest Resilience Changes in Response to Insect Disturbance: A Comprehensive Analysis Using PlanetScope Time Series.**  
-*Annual Meeting of the American Association of Geographers (AAG).*
-
----
-
-### 2022
-
-**Song, K.**, Zhu, Z. (2022).  
-**Improved subtle change detection using Landsat and Sentinel-2 data fusion: A study of spongy moth outbreaks in New England forests.**  
-*AGU Fall Meeting Abstracts*, B43B-08.
-
----
-
-### 2021
-
-**Song, K.**, Zhu, Z. (2021).  
-**Forest Disturbance Monitoring at 10 m Spatial Resolution Using Sentinel-2 Time Series.**  
-*AGU Fall Meeting Abstracts*, B45I-1732.
-
----
 
 ## Thesis
 
