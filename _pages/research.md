@@ -15,7 +15,6 @@ I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize 
 ![TIF workflow of 10-m Landsat and Sentinel-2 time series](/images/tif-figure2.jpg){:width="60%"}
 <br>
 **Fig. 1.** Workflow of the Time-series-based Image Fusion (TIF) algorithm.
-
 <br>
 ![Study sites for TIF development](/images/TIF_results.png){:width="60%"}
 <br>
