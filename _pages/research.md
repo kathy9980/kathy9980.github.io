@@ -24,12 +24,21 @@ I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize 
 
 ### Global Forest Resilience and Disturbance Analysis
 My work evaluates the reliability of satellite-derived resilience indicators for large-scale ecosystem stability analysis, with a focus on understanding forest health and resilience under diverse natural and anthropogenic stressors.
-<br>
-![GIF1](/images/DOY_Animation_ROI00.gif){:width="50%"}
-<br>
-<br>
-![GIF2](/images/MAG_Animation_ROI00.gif){:width="50%"}
-<br>
+<div style="display:flex; gap:20px; justify-content:center; align-items:flex-start;">
+  <div style="flex:1; text-align:center;">
+    <img src="/images/DOY_Animation_ROI00.gif" style="width:100%;">
+    <p><b>Disturbance Timing</b></p>
+  </div>
+
+  <div style="flex:1; text-align:center;">
+    <img src="/images/MAG_Animation_ROI00.gif" style="width:100%;">
+    <p><b>Disturbance Severity</b></p>
+  </div>
+</div>
+
+<p align="center"><em>
+**Fig. 3.** Spongy moth outbreak detected from 10-m Harmonized Landsat and Sentinel-2 imagery (Song <em>et al.</em>, 2025). Left: disturbance timing inferred from the detected disturbance onset. Right: disturbance severity represented by the detected disturbance magnitude.
+</em></p>
 ### GeoAI, Explainable Machine Learning, and Causal Inference
 I am applying machine learning models, along with explainability tools (e.g., SHAP and LIME), and causal inference frameworks to identify the key drivers of global forest resilience change and to enhance the interpretability and transparency of data-driven ecosystem studies.
 
@@ -39,4 +48,4 @@ In collaboration with the [StormWise](https://stormwise.uconn.edu/) program and 
 <br>
 [![Predicted roadside tree failure risk map](/images/Eversource-GEE-fig.png)](https://dynamic-amulet-244714.projects.earthengine.app/view/tree-failure-risk-map-site-01){:height="85%" width="85%"}
 <br>
-**Fig. 3.** Predicted roadside tree failure risk GEE map.
+**Fig. 4.** Predicted roadside tree failure risk GEE map.
