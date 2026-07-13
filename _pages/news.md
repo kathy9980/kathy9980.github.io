@@ -11,6 +11,9 @@ author_profile: true
 **2026.05** New paper, *Physiological Fidelity of a Satellite-Derived Forest Resilience Indicator in the Amazon*, was accepted for publication in ***Nature Ecology & Evolution***.
 
 **2026.05** Attended the [**AI for Social Science Research Methods Workshop**](https://www.linkedin.com/posts/kexin-song-98b196149_ai-llm-geoai-ugcPost-7463797776829833216-fMvh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPM4vsBGCM7srffXJdl8rNdbizuHiD7Xkg) at Yale University and presented research on GeoAI, remote sensing, and causal inference for conflict impact assessment. My poster was selected as one of three outstanding posters.
+<br>
+![Conference](/images/conference.jpeg){:height="88%" width="88%"}
+<br>
 
 **2026.04** New paper on satellite-derived human nighttime activity dynamics is now online in ***Nature***. [Check it out here!](https://www.nature.com/articles/s41586-026-10260-w)
 
@@ -21,6 +24,9 @@ author_profile: true
 ## 2025
 
 **2025.12** Successfully defended and completed my Ph.D. in Natural Resources and the Environment at the University of Connecticut!
+<br>
+![Defense](/images/defense.JPG){:height="88%" width="88%"}
+<br>
 
 **2025.10** New paper introducing the TIF time-series image fusion algorithm is now online in ***Remote Sensing of Environment***. [Check it out here!](https://www.sciencedirect.com/science/article/pii/S0034425725004390)
 
