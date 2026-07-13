@@ -12,7 +12,7 @@ My research focuses on satellite remote sensing, time-series analysis, and geosp
 I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize Landsat and Sentinel-2 imagery into a dense 10-m optical time series. This work has been published in *[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.115035)* and is being integrated into NASA’s Harmonized Landsat and Sentinel-2 (HLS) pipeline. This work enables high-resolution monitoring of land changes, such as insect disturbance detection, crop phenology monitoring, and flash flood mapping. 
 
 <br>
-![Study sites for TIF development](/images/tif-figure1.jpg){:height="88%" width="88%"}
+![Study sites for TIF development](/images/TIF_results.png){:height="88%" width="88%"}
 <br>
 **Fig. 1.** Study regions used for TIF calibration and validation across the United States. Background: 2021 NLCD land cover.
 
