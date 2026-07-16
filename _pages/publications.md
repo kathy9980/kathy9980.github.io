@@ -10,24 +10,82 @@ For the latest publication list, please visit my
 
 ## 2026
 
-[8] **Song, K.***, Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J., Liu, Y., Tai, X., Fahey, R. T., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Leite, R., Bittencourt, P., & Zhu, Z. (2026). The Physiological Key to a Satellite-derived Forest Resilience Indicator: Evidence from Amazonian Forests. Nature Ecology & Evolution. **In press.**
+<ol reversed start="8">
 
-[7] Zhu, Z., Fragkias, M., Suh, J. W., McCoshan, E., Chen, L., **Song, K.**, Kong, J., Li, T., *et al.* (2026). The Urban Pulse: Diagnosing the urbanization process as spiky, cyclical, and asynchronous. Proceedings of the National Academy of Sciences, 123(24), e2537770123. [[Yale]](https://environment.yale.edu/news/article/taking-urban-pulse-new-way-diagnose-cities) · [[UConn]](https://today.uconn.edu/2026/06/scientists-can-now-measure-the-urban-pulse-from-space/) · [[Reuters]](https://www.reuters.com/science/satellite-observations-detect-urban-pulse-six-global-cities-2026-06-18/) · [[Kudos]](https://www.growkudos.com/publications/10.1073%25252Fpnas.2537770123/reader) · [[Earth.com]](https://www.earth.com/news/cities-have-a-hidden-pulse-that-can-be-measured-from-space/?utm_source=dlvr.it&utm_medium=linkedin)
+<li>
 
-[6] Li, T., Wang, Z., Kyba, C., Román, M. O., Seto, K. C., Yang, Y., Qiu, S., Kuester, T., **Song, K.**, *et al.* (2026). Satellite imagery reveals increasing volatility in human night-time activity. Nature, 652(8109), 379–386.
+**Song, K.***, Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J., Liu, Y., Tai, X., Fahey, R. T., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Leite, R., Bittencourt, P., & Zhu, Z. (2026). The Physiological Key to a Satellite-derived Forest Resilience Indicator: Evidence from Amazonian Forests. Nature Ecology & Evolution. **In press.**
+
+</li>
+
+<li>
+
+Zhu, Z., Fragkias, M., Suh, J. W., McCoshan, E., Chen, L., **Song, K.**, Kong, J., Li, T., *et al.* (2026). The Urban Pulse: Diagnosing the urbanization process as spiky, cyclical, and asynchronous. Proceedings of the National Academy of Sciences, 123(24), e2537770123.
+
+[Yale](https://environment.yale.edu/news/article/taking-urban-pulse-new-way-diagnose-cities) ·
+[UConn](https://today.uconn.edu/2026/06/scientists-can-now-measure-the-urban-pulse-from-space/) ·
+[Reuters](https://www.reuters.com/science/satellite-observations-detect-urban-pulse-six-global-cities-2026-06-18/) ·
+[Kudos](https://www.growkudos.com/publications/10.1073%25252Fpnas.2537770123/reader) ·
+[Earth.com](https://www.earth.com/news/cities-have-a-hidden-pulse-that-can-be-measured-from-space/?utm_source=dlvr.it&utm_medium=linkedin)
+
+</li>
+
+<li>
+
+Li, T., Wang, Z., Kyba, C., Román, M. O., Seto, K. C., Yang, Y., Qiu, S., Kuester, T., **Song, K.**, *et al.* (2026). Satellite imagery reveals increasing volatility in human night-time activity. Nature, 652(8109), 379–386.
+
+</li>
+
+</ol>
 
 ## 2025
 
-[5] Qiu, S., Zhu, Z., Yang, X., Woodcock, C. E., Fahey, R. T., Stehman, S., Zhang, Y., **Song, K.**, *et al.* (2025). A shift from human-directed to undirected wild land disturbances in the USA. Nature Geoscience, 18(10), 989–996.
+<ol reversed start="5">
 
-[4] **Song, K.**, Zhu, Z., Qiu, S., Olofsson, P., Neigh, C. S. R., Ju, J., & Zhou, Q. (2025). TIF: A time-series-based image fusion algorithm. Remote Sensing of Environment, 331, 115035. [[DOI]](https://doi.org/10.1016/j.rse.2025.115035)
+<li>
+
+Qiu, S., Zhu, Z., Yang, X., Woodcock, C. E., Fahey, R. T., Stehman, S., Zhang, Y., **Song, K.**, *et al.* (2025). A shift from human-directed to undirected wild land disturbances in the USA. Nature Geoscience, 18(10), 989–996.
+
+</li>
+
+<li>
+
+**Song, K.**, Zhu, Z., Qiu, S., Olofsson, P., Neigh, C. S. R., Ju, J., & Zhou, Q. (2025). TIF: A time-series-based image fusion algorithm. Remote Sensing of Environment, 331, 115035.
+
+[DOI](https://doi.org/10.1016/j.rse.2025.115035)
+
+</li>
+
+</ol>
 
 ## 2024
 
-[3] **Song, K.**, & Minnett, P. J. (2024). Evaluation of summertime passive microwave and reanalysis sea‐ice concentration in the central Arctic. Earth and Space Science, 11(1), e2023EA003214. [[DOI]](https://doi.org/10.1029/2023EA003214)
+<ol reversed start="3">
 
-[2] Worthley, T., Bunce, A., Morzillo, A. T., Witharana, C., Zhu, Z., Cabral, J., Crocker, E., **Song, K.**, *et al.* (2024). Stormwise: Innovative Forest Management to Promote Storm Resistance in Roadside Forests. Journal of Forestry, 122(4), 398–409.
+<li>
+
+**Song, K.**, & Minnett, P. J. (2024). Evaluation of summertime passive microwave and reanalysis sea‐ice concentration in the central Arctic. Earth and Space Science, 11(1), e2023EA003214.
+
+[DOI](https://doi.org/10.1029/2023EA003214)
+
+</li>
+
+<li>
+
+Worthley, T., Bunce, A., Morzillo, A. T., Witharana, C., Zhu, Z., Cabral, J., Crocker, E., **Song, K.**, *et al.* (2024). Stormwise: Innovative Forest Management to Promote Storm Resistance in Roadside Forests. Journal of Forestry, 122(4), 398–409.
+
+</li>
+
+</ol>
 
 ## Thesis
 
-[1] **Song, K.** (2020). Accuracy Assessment of Summertime Reanalysis and Passive Microwave Sea-Ice Concentration Products in the Central Arctic. M.S. Thesis, University of Miami.
+<ol reversed start="1">
+
+<li>
+
+**Song, K.** (2020). Accuracy Assessment of Summertime Reanalysis and Passive Microwave Sea-Ice Concentration Products in the Central Arctic. M.S. Thesis, University of Miami.
+
+</li>
+
+</ol>
