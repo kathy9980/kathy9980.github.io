@@ -8,6 +8,7 @@ author_profile: true
 <h2 style="border-bottom:1px solid #d9d9d9; padding-bottom:6px; margin-bottom:20px;">
 2026
 </h2>
+**July.** Published *Physiological Fidelity of a Satellite-Derived Forest Resilience Indicator in the Amazon* in **Nature Ecology & Evolution**. [Read the paper](https://www.nature.com/articles/s41559-026-03116-z#article-info).
 
 **June.** Published *The Urban Pulse: Diagnosing the Urbanization Process as Spiky, Cyclical, and Asynchronous* in **Proceedings of the National Academy of Sciences (PNAS)**. [Read the paper](https://www.pnas.org/doi/10.1073/pnas.2537770123)
 
