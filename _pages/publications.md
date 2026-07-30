@@ -14,17 +14,17 @@ For the latest publication list, please visit my
 
 <li value="8">
 
-<strong>Song, K.</strong>*, Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J., Liu, Y., Tai, X., Fahey, R. T., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Leite, R., Bittencourt, P., &amp; Zhu, Z.* (2026). The Physiological Key to a Satellite-derived Forest Resilience Indicator: Evidence from Amazonian Forests. Nature Ecology &amp; Evolution. <a href="https://doi.org/10.1038/s41559-026-03116-z">DOI</a>
+<strong>Song, K.</strong>*, Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J., Liu, Y., Tai, X., Fahey, R. T., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Leite, R., Bittencourt, P., &amp; Zhu, Z.* (2026). The Physiological Key to a Satellite-derived Forest Resilience Indicator: Evidence from Amazonian Forests. Nature Ecology &amp; Evolution. <a href="https://doi.org/10.1038/s41559-026-03116-z">DOI</a><br>
 
-Media: <a href="https://environment.yale.edu/news-in-brief/satellites-can-track-amazon-forest-resilience-timing-matters">Yale</a> ·
+<strong>Media:</strong> <a href="https://environment.yale.edu/news-in-brief/satellites-can-track-amazon-forest-resilience-timing-matters">Yale</a> ·
 
 </li>
 
 <li value="7">
 
-Zhu, Z.*, Fragkias, M., Suh, J. W., McCoshan, E., Chen, L., <strong>Song, K.</strong>, Kong, J., Li, T., Karen C Seto* (2026). The Urban Pulse: Diagnosing the urbanization process as spiky, cyclical, and asynchronous. Proceedings of the National Academy of Sciences, 123(24), e2537770123. <a href="https://doi.org/10.1073/pnas.2537770123">DOI</a>
+Zhu, Z.*, Fragkias, M., Suh, J. W., McCoshan, E., Chen, L., <strong>Song, K.</strong>, Kong, J., Li, T., Karen C Seto* (2026). The Urban Pulse: Diagnosing the urbanization process as spiky, cyclical, and asynchronous. Proceedings of the National Academy of Sciences, 123(24), e2537770123. <a href="https://doi.org/10.1073/pnas.2537770123">DOI</a><br>
 
-Media: <a href="https://environment.yale.edu/news/article/taking-urban-pulse-new-way-diagnose-cities">Yale</a> ·
+<strong>Media:</strong> <a href="https://environment.yale.edu/news/article/taking-urban-pulse-new-way-diagnose-cities">Yale</a> ·
 <a href="https://today.uconn.edu/2026/06/scientists-can-now-measure-the-urban-pulse-from-space/">UConn</a> ·
 <a href="https://www.reuters.com/science/satellite-observations-detect-urban-pulse-six-global-cities-2026-06-18/">Reuters</a> ·
 <a href="https://www.growkudos.com/publications/10.1073%25252Fpnas.2537770123/reader">Kudos</a> ·
@@ -34,8 +34,9 @@ Media: <a href="https://environment.yale.edu/news/article/taking-urban-pulse-new
 
 <li value="6">
 
-Li, T.*, Wang, Z., Kyba, C., Román, M. O., Seto, K. C., Yang, Y., Qiu, S., Kuester, T.,... <strong>Song, K.</strong> ..., Zhe Zhu* (2026). Satellite imagery reveals increasing volatility in human night-time activity. Nature, 652(8109), 379–386. <a href="https://doi.org/10.1038/s41586-026-10260-w">DOI</a>
+Li, T.*, Wang, Z., Kyba, C., Román, M. O., Seto, K. C., Yang, Y., Qiu, S., Kuester, T.,... <strong>Song, K.</strong> ..., Zhe Zhu* (2026). Satellite imagery reveals increasing volatility in human night-time activity. Nature, 652(8109), 379–386. <a href="https://doi.org/10.1038/s41586-026-10260-w">DOI</a><br>
 
+<strong>Media:</strong> <a href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/">NASA</a> ·
 
 </li>
 
