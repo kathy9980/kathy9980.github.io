@@ -16,6 +16,8 @@ For the latest publication list, please visit my
 
 <strong>Song, K.</strong>*, Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J., Liu, Y., Tai, X., Fahey, R. T., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Leite, R., Bittencourt, P., &amp; Zhu, Z.* (2026). The Physiological Key to a Satellite-derived Forest Resilience Indicator: Evidence from Amazonian Forests. Nature Ecology &amp; Evolution. <a href="https://doi.org/10.1038/s41559-026-03116-z">DOI</a>
 
+<a href="https://environment.yale.edu/news-in-brief/satellites-can-track-amazon-forest-resilience-timing-matters">Yale</a> ·
+
 </li>
 
 <li value="7">
