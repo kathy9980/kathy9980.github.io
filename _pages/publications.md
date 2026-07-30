@@ -16,7 +16,7 @@ For the latest publication list, please visit my
 
 <strong>Song, K.</strong>*, Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J., Liu, Y., Tai, X., Fahey, R. T., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Leite, R., Bittencourt, P., &amp; Zhu, Z.* (2026). The Physiological Key to a Satellite-derived Forest Resilience Indicator: Evidence from Amazonian Forests. Nature Ecology &amp; Evolution. <a href="https://doi.org/10.1038/s41559-026-03116-z">DOI</a>
 
-<a href="https://environment.yale.edu/news-in-brief/satellites-can-track-amazon-forest-resilience-timing-matters">Yale</a> ·
+Media: <a href="https://environment.yale.edu/news-in-brief/satellites-can-track-amazon-forest-resilience-timing-matters">Yale</a> ·
 
 </li>
 
@@ -24,7 +24,7 @@ For the latest publication list, please visit my
 
 Zhu, Z.*, Fragkias, M., Suh, J. W., McCoshan, E., Chen, L., <strong>Song, K.</strong>, Kong, J., Li, T., Karen C Seto* (2026). The Urban Pulse: Diagnosing the urbanization process as spiky, cyclical, and asynchronous. Proceedings of the National Academy of Sciences, 123(24), e2537770123. <a href="https://doi.org/10.1073/pnas.2537770123">DOI</a>
 
-<a href="https://environment.yale.edu/news/article/taking-urban-pulse-new-way-diagnose-cities">Yale</a> ·
+Media: <a href="https://environment.yale.edu/news/article/taking-urban-pulse-new-way-diagnose-cities">Yale</a> ·
 <a href="https://today.uconn.edu/2026/06/scientists-can-now-measure-the-urban-pulse-from-space/">UConn</a> ·
 <a href="https://www.reuters.com/science/satellite-observations-detect-urban-pulse-six-global-cities-2026-06-18/">Reuters</a> ·
 <a href="https://www.growkudos.com/publications/10.1073%25252Fpnas.2537770123/reader">Kudos</a> ·
