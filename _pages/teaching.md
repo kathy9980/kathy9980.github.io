@@ -26,10 +26,10 @@ University of Connecticut | Fall 2023
 
 I am interested in teaching undergraduate and graduate courses in:
 
-- Environmental Data Science, Geospatial AI, and Generative AI
-- Remote Sensing and Earth Observation
-- Geographic Information Systems (GIS) and Spatial Analysis
-- Forest Ecology, Disturbance, and Resilience
-- Human–Environment Interactions and Land System Science
+- **Environmental Data Science, Geospatial AI, and Generative AI**
+- **Remote Sensing and Earth Observation**
+- **Geographic Information Systems (GIS) and Spatial Analysis**
+- **Forest Ecology, Disturbance, and Resilience**
+- **Human–Environment Interactions and Land System Science**
 
 I am also enthusiastic about developing interdisciplinary courses that integrate satellite remote sensing, generative AI, machine learning, and reproducible research workflows using Python, GIS, and cloud-based geospatial platforms. These courses would emphasize how Earth observation and AI can be used to understand ecosystem dynamics, monitor environmental change, and support evidence-based decision-making for natural resource management, conservation, and climate resilience.
