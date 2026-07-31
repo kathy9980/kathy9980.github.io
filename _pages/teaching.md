@@ -24,10 +24,12 @@ University of Connecticut | Fall 2023
 
 ## Future Teaching Interests
 
-I am interested in teaching courses in:
-- Environmental Data Science and Geospatial AI 
-- Physics and Applications of Remote Sensing 
-- Geographic Information Systems (GIS)  
-- Disturbance Ecology
+I am interested in teaching undergraduate and graduate courses in:
 
-I am also enthusiastic about developing new courses that integrate satellite remote sensing, machine learning, and reproducible research workflows using Python, GIS, and cloud-based platforms.
+- Environmental Data Science, Geospatial AI, and Generative AI
+- Remote Sensing and Earth Observation
+- Geographic Information Systems (GIS) and Spatial Analysis
+- Forest Ecology, Disturbance, and Resilience
+- Human–Environment Interactions and Land System Science
+
+I am also enthusiastic about developing interdisciplinary courses that integrate satellite remote sensing, generative AI, machine learning, and reproducible research workflows using Python, GIS, and cloud-based geospatial platforms. These courses would emphasize how Earth observation and AI can be used to understand ecosystem dynamics, monitor environmental change, and support evidence-based decision-making for natural resource management, conservation, and climate resilience.
