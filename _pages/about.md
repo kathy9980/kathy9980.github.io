@@ -6,27 +6,26 @@ author_profile: true
 <div style="text-align: justify;">
 
 <p>
-Welcome to my page! I am a remote sensing data scientist and a postdoctoral associate at the Yale School of the Environment, where I work with Dr. Luke C. Sanford in the Study of Politics and Institutions with Remote Environmental Sensing 
+I am a remote sensing data scientist and Postdoctoral Associate at the Yale School of the Environment, where I work with Dr. Luke C. Sanford in the Study of Politics and Institutions with Remote Environmental Sensing
 <strong>
   <a href="https://sanford-lab.github.io/" target="_blank" style="color:#286DC0; text-decoration:underline;">
-  (SPIRES) Lab</a></strong> 
-to address <strong>complex human–natural systems with big spatiotemporal data and AI tools</strong>. I received my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), under the supervision of Dr. Zhe Zhu at the Global Environmental Remote Sensing Laboratory 
+  (SPIRES) Lab</a></strong>
+to advance our understanding of <strong>complex human–environment systems using big spatiotemporal data and artificial intelligence</strong>. I earned my Ph.D. in the Department of Natural Resources and the Environment at the University of Connecticut (UConn), where I was advised by Dr. Zhe Zhu in the Global Environmental Remote Sensing Laboratory
 <strong>
   <a href="https://gerslab.cahnr.uconn.edu/" target="_blank" style="color:#286DC0; text-decoration:underline;">
   (GERS Lab)</a></strong>.
 </p>
 
-
 <p>
-My doctoral research builds scalable, application-driven frameworks to monitor and model forest disturbance, resilience, and ecosystem dynamics under environmental change. By integrating <strong>multi-sensor satellite data fusion, ecosystem ecology, and machine learning/deep learning</strong>, I convert large-scale Earth observation data into decision-support tools for land managers, utilities, and forest carbon stakeholders. Additional details are available on the 
+My research develops scalable, application-driven methods for monitoring forest disturbance, ecosystem resilience, and land-system dynamics under environmental change. By integrating <strong>multi-sensor Earth observation, ecological theory, and machine learning</strong>, I transform satellite observations into decision-support tools for natural resource management, infrastructure resilience, forest carbon monitoring, and environmental policy. You can learn more about my work on the
 <strong>
   <a href="https://kathy9980.github.io/research/" target="_blank" style="color:#286DC0; text-decoration:underline;">
-    Research</a></strong>
+  Research</a></strong>
 page.
 </p>
 
 <p>
-Outside of research, I enjoy hiking, playing badminton, spending time with my dog, and reading about data-driven ways to understand Earth — my favorite planet.
+Outside of research, I enjoy hiking, playing badminton, spending time with my dog, and exploring how data can help us better understand our changing planet.
 </p>
 
 <h2>Education</h2>
