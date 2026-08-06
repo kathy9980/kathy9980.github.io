@@ -9,9 +9,11 @@ author_profile: true
 2026
 </h2>
 
-**July.** My panel proposal, *Who Writes the Map? AI, Authorship, and Publishing*, was accepted for presentation at the **Harvard CGA 20th Anniversary Annual Conference** (October 2–3, 2026), where I will serve as the panel organizer and moderator.  If you'll be attending and are interested in AI, geospatial science, or scientific publishing, feel free to reach out.
+**July.** My panel proposal, **Who Writes the Map? AI, Authorship, and Publishing**, was accepted at the [**Harvard CGA 20th Anniversary Annual Conference**](https://gis.harvard.edu/2026-cga-conference-celebrating-geographic-analysis-past-present-and-future) (October 2–3, 2026), where I will serve as the panel organizer and moderator.  If you'll be attending and are interested in AI, geospatial science, or scientific publishing, feel free to reach out.
 
 **July.** Published *Physiological Fidelity of a Satellite-Derived Forest Resilience Indicator in the Amazon* in **Nature Ecology & Evolution**. [Read the paper](https://www.nature.com/articles/s41559-026-03116-z#article-info).
+
+**July.** I was selected to attend the [**Google Geo for Good Earth Engine MAP Partner Summit**](https://earthoutreachonair.withgoogle.com/events/geoforgood26-map) (Mountain View, CA; September 15–17, 2026), where I'll engage with the Earth Engine and geospatial AI communities to advance applications for planetary sustainability and human resilience.
 
 **June.** Published *The Urban Pulse: Diagnosing the Urbanization Process as Spiky, Cyclical, and Asynchronous* in **Proceedings of the National Academy of Sciences (PNAS)**. [Read the paper](https://www.pnas.org/doi/10.1073/pnas.2537770123)
 
