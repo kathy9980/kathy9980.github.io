@@ -71,19 +71,17 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 
 We investigate how **conflict, human displacement, infrastructure expansion, and environmental interventions** reshape coupled human–natural systems. Current projects combine dense satellite time series with causal inference and geospatial AI to evaluate land-system changes associated with conflict and refugee displacement, emerging infrastructure such as data centers, and environmental management interventions.
 
-<!-- ADD TOPIC 2 FIGURE 1 HERE -->
-
 <div align="center">
-  <img src="/images/YOUR-TOPIC2-FIGURE-1.png" style="width:80%;">
+  <img src="/images/land_change_map_2014_2026.png" style="width:65%;">
+  <p><em><strong>Fig. 3.</strong> Satellite-derived land disturbance trajectories across northern Rakhine State, Myanmar, and refugee settlements in Bangladesh. Examples illustrate landscape changes before, during, and after major conflict and displacement events.</em></p>
 </div>
 
-<!-- ADD TOPIC 2 FIGURE 2 HERE -->
-
 <div align="center">
-  <img src="/images/YOUR-TOPIC2-FIGURE-2.png" style="width:80%;">
+  <img src="/images/twfe_results_conflict_damage_exclusive_level.png" style="width:90%;">
+  <p><em><strong>Fig. 4.</strong> Estimated effects of conflict-damage exposure on agricultural, forest, and impervious land-cover trajectories using a two-way fixed-effects framework.</em></p>
 </div>
 
-Our previous research examines these interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization**, track the **increasing volatility of nighttime human activity**, and evaluate how **forest management can reduce storm-related risks to roadside infrastructure**.
+Our previous research examines human–environment interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization**, track the **increasing volatility of nighttime human activity**, and evaluate how **forest management can reduce storm-related risks to roadside infrastructure**. 
 
 Together, these studies show how human systems and environmental processes co-evolve across space and time, and how improved observation and management can support more resilient landscapes and communities.
 
