@@ -63,7 +63,6 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 <em>How do human activities, infrastructure, and environmental change interact to reshape landscapes and the resilience of coupled human–natural systems?</em>
 </p>
 
-### Ongoing Research
 
 We investigate how **conflict, human displacement, infrastructure expansion, and environmental interventions** reshape coupled human–natural systems. Current projects combine dense satellite time series with causal inference and geospatial AI to evaluate land-system changes associated with conflict and refugee displacement, emerging infrastructure such as data centers, and environmental management interventions.
 
