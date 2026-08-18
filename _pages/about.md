@@ -3,6 +3,7 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
+
 <div style="text-align: justify;">
 
 <p>
@@ -17,7 +18,7 @@ to advance our understanding of <strong>complex human–environment systems usin
 </p>
 
 <p>
-My research develops scalable, application-driven methods for monitoring forest disturbance, ecosystem resilience, and land-system dynamics under environmental change. By integrating <strong>multi-sensor Earth observation, ecological theory, and machine learning</strong>, I transform satellite observations into decision-support tools for natural resource management, infrastructure resilience, forest carbon monitoring, and environmental policy. You can learn more about my work on the
+My research lies at the intersection of <strong>ecosystem science, human–environment systems, and geospatial data science</strong>. I integrate <strong>Earth observation, field measurements, causal inference, and geospatial AI</strong> to study forest resilience and disturbance, land-system change, and interactions between environmental and human systems across scales. I am particularly interested in translating these advances into applications for <strong>natural resource management, infrastructure resilience, forest carbon monitoring, and environmental policy</strong>. You can learn more about my work on the
 <strong>
   <a href="https://kathy9980.github.io/research/" target="_blank" style="color:#286DC0; text-decoration:underline;">
   Research</a></strong>
@@ -37,7 +38,4 @@ Outside of research, I enjoy hiking, playing badminton, spending time with my do
 
 </div>
 
-
-
 *Last updated on: Aug, 2026*
-
