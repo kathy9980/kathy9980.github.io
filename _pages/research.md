@@ -14,7 +14,7 @@ I develop my research program around a fundamental question: **How can we better
 
 ## 1. Forest Resilience and Ecosystem Dynamics
 
-<p align="center" style="font-size:1.25em;">
+<p align="center" style="font-size:1.10em; padding:0 15px; margin:12px 0 28px 0;">
 <strong>How do forests and ecosystems respond to disturbance, recover from stress, and gain or lose resilience under global environmental change?</strong>
 </p>
 
