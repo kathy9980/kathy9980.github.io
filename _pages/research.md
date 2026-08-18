@@ -42,9 +42,7 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 </div>
 
 <p align="center">
-  <em>
-    <strong>Fig. 2.</strong> Spongy moth outbreak detected from 10-m Harmonized Landsat and Sentinel-2 imagery (Song <em>et al.</em>, 2025). Left: disturbance timing inferred from the detected disturbance onset. Right: disturbance severity represented by the detected disturbance magnitude.
-  </em>
+  <em><strong>Fig. 2.</strong> Spongy moth outbreak detected from 10-m Harmonized Landsat and Sentinel-2 imagery (Song <em>et al.</em>, 2025). Left: disturbance timing inferred from the detected disturbance onset. Right: disturbance severity represented by the detected disturbance magnitude.</em>
 </p>
 
 ### Related Publications
@@ -72,7 +70,7 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 We investigate how **conflict, human displacement, infrastructure expansion, and environmental interventions** reshape coupled human–natural systems. Current projects combine dense satellite time series with causal inference and geospatial AI to evaluate land-system changes associated with conflict and refugee displacement, emerging infrastructure such as data centers, and environmental management interventions.
 
 <div align="center">
-  <img src="/images/land_change_map_2014_2026.png" style="width:65%;">
+  <img src="/images/land_change_map_2014_2026_web.webp" style="width:65%;">
   <p><em><strong>Fig. 3.</strong> Satellite-derived land disturbance trajectories across northern Rakhine State, Myanmar, and refugee settlements in Bangladesh. Examples illustrate landscape changes before, during, and after major conflict and displacement events.</em></p>
 </div>
 
@@ -81,7 +79,7 @@ We investigate how **conflict, human displacement, infrastructure expansion, and
   <p><em><strong>Fig. 4.</strong> Estimated effects of conflict-damage exposure on agricultural, forest, and impervious land-cover trajectories using a two-way fixed-effects framework.</em></p>
 </div>
 
-Our previous research examines human–environment interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization**, track the **increasing volatility of nighttime human activity**, and evaluate how **forest management can reduce storm-related risks to roadside infrastructure**. 
+Our previous research examines human–environment interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization**, track the **increasing volatility of nighttime human activity**, and evaluate how **forest management can reduce storm-related risks to roadside infrastructure**.
 
 Together, these studies show how human systems and environmental processes co-evolve across space and time, and how improved observation and management can support more resilient landscapes and communities.
 
@@ -109,12 +107,12 @@ I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize 
 
 <div align="center">
   <img src="/images/tif-figure2.jpg" style="width:80%;">
-  <p><em><strong>Fig. 3.</strong> Workflow of the Time-series-based Image Fusion (TIF) algorithm.</em></p>
+  <p><em><strong>Fig. 5.</strong> Workflow of the Time-series-based Image Fusion (TIF) algorithm.</em></p>
 </div>
 
 <div align="center">
   <img src="/images/TIF_results.png" style="width:80%;">
-  <p><em><strong>Fig. 4.</strong> Comparison of change maps generated from Sentinel-2 (S10, reference), TIF (our approach), and other image fusion and resampling methods. Gray indicates stable surfaces, white indicates detected changes, and black represents invalid pixels masked by the QA band. The yellow circle highlights a land cover conversion from forest to bare land.</em></p>
+  <p><em><strong>Fig. 6.</strong> Comparison of change maps generated from Sentinel-2 (S10, reference), TIF (our approach), and other image fusion and resampling methods. Gray indicates stable surfaces, white indicates detected changes, and black represents invalid pixels masked by the QA band. The yellow circle highlights a land-cover conversion from forest to bare land.</em></p>
 </div>
 
 ### Related Publications
@@ -142,5 +140,5 @@ In collaboration with the [StormWise](https://stormwise.uconn.edu/) program and 
   <a href="https://dynamic-amulet-244714.projects.earthengine.app/view/tree-failure-risk-map-site-01" target="_blank">
     <img src="/images/Eversource-GEE-fig.png" style="width:80%;">
   </a>
-  <p><em><strong>Fig. 5.</strong> Predicted roadside tree failure risk map. Click the figure to explore the interactive Google Earth Engine application.</em></p>
+  <p><em><strong>Fig. 7.</strong> Predicted roadside tree failure risk map. Click the figure to explore the interactive Google Earth Engine application.</em></p>
 </div>
