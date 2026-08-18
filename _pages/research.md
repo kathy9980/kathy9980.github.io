@@ -25,6 +25,28 @@ In our study, we combine satellite time series with field-based physiological me
   <p><em><strong>Fig. 1.</strong> A conceptual basin stability diagram illustrating how observational frequency influences estimates of ecosystem resilience.</em></p>
 </div>
 
+My work also evaluates forest disturbance dynamics using dense satellite time series, with a particular focus on detecting disturbance timing, severity, and recovery under diverse natural and anthropogenic stressors.
+
+<div align="center" style="display:flex; gap:20px; justify-content:center; align-items:flex-start;">
+
+  <div style="flex:1; text-align:center;">
+    <img src="/images/DOY_Animation_ROI00.gif" style="width:100%;">
+    <p><strong>Disturbance Timing</strong></p>
+  </div>
+
+  <div style="flex:1; text-align:center;">
+    <img src="/images/MAG_Animation_ROI00.gif" style="width:100%;">
+    <p><strong>Disturbance Severity</strong></p>
+  </div>
+
+</div>
+
+<p align="center">
+  <em>
+    <strong>Fig. 2.</strong> Spongy moth outbreak detected from 10-m Harmonized Landsat and Sentinel-2 imagery (Song <em>et al.</em>, 2025). Left: disturbance timing inferred from the detected disturbance onset. Right: disturbance severity represented by the detected disturbance magnitude.
+  </em>
+</p>
+
 ### Related Publications
 
 1. **Song, K.**, Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J. V., Liu, Y., Tai, X., Fahey, R., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Leite, R. V., Bittencourt, P. R. L., & Zhu, Z. (2026). **Physiological fidelity of a satellite-derived forest resilience indicator in the Amazon.** *Nature Ecology & Evolution*. [Paper](https://doi.org/10.1038/s41559-026-03116-z)
@@ -61,7 +83,9 @@ We investigate how **conflict, human displacement, infrastructure expansion, and
   <img src="/images/YOUR-TOPIC2-FIGURE-2.png" style="width:80%;">
 </div>
 
-Our previous research examines these interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization**, track the **increasing volatility of nighttime human activity**, and evaluate how **forest management can reduce storm-related risks to roadside infrastructure**. Together, these studies show how human systems and environmental processes co-evolve across space and time, and how improved observation and management can support more resilient landscapes and communities.
+Our previous research examines these interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization**, track the **increasing volatility of nighttime human activity**, and evaluate how **forest management can reduce storm-related risks to roadside infrastructure**.
+
+Together, these studies show how human systems and environmental processes co-evolve across space and time, and how improved observation and management can support more resilient landscapes and communities.
 
 ### Related Publications
 
@@ -87,29 +111,13 @@ I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize 
 
 <div align="center">
   <img src="/images/tif-figure2.jpg" style="width:80%;">
-  <p><em><strong>Fig. 2.</strong> Workflow of the Time-series-based Image Fusion (TIF) algorithm.</em></p>
+  <p><em><strong>Fig. 3.</strong> Workflow of the Time-series-based Image Fusion (TIF) algorithm.</em></p>
 </div>
 
 <div align="center">
   <img src="/images/TIF_results.png" style="width:80%;">
-  <p><em><strong>Fig. 3.</strong> Comparison of change maps generated from Sentinel-2 (S10, reference), TIF (our approach), and other image fusion and resampling methods. Gray indicates stable surfaces, white indicates detected changes, and black represents invalid pixels masked by the QA band. The yellow circle highlights a land cover conversion from forest to bare land.</em></p>
+  <p><em><strong>Fig. 4.</strong> Comparison of change maps generated from Sentinel-2 (S10, reference), TIF (our approach), and other image fusion and resampling methods. Gray indicates stable surfaces, white indicates detected changes, and black represents invalid pixels masked by the QA band. The yellow circle highlights a land cover conversion from forest to bare land.</em></p>
 </div>
-
-<div align="center" style="display:flex; gap:20px; justify-content:center; align-items:flex-start;">
-
-  <div style="flex:1; text-align:center;">
-    <img src="/images/DOY_Animation_ROI00.gif" style="width:100%;">
-    <p><strong>Disturbance Timing</strong></p>
-  </div>
-
-  <div style="flex:1; text-align:center;">
-    <img src="/images/MAG_Animation_ROI00.gif" style="width:100%;">
-    <p><strong>Disturbance Severity</strong></p>
-  </div>
-
-</div>
-
-<p align="center"><em><strong>Fig. 4.</strong> Spongy moth outbreak detected from 10-m Harmonized Landsat and Sentinel-2 imagery. Left: disturbance timing inferred from the detected disturbance onset. Right: disturbance severity represented by the detected disturbance magnitude.</em></p>
 
 ### Related Publications
 
