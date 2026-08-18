@@ -51,8 +51,8 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 
 ### Selected Conference Presentations
 
-- **Song, K. & Zhu, Z.** (2024). *Can We Reliably Measure Forest Resilience from Space?* AGU Fall Meeting, B23K-01.
-- **Song, K. & Zhu, Z.** (2024). *Unveiling Forest Resilience Changes in Response to Insect Disturbance: A Comprehensive Analysis Using PlanetScope Time Series.* Annual Meeting of the American Association of Geographers (AAG).
+- **Song, K.** & Zhu, Z. (2024). *Can We Reliably Measure Forest Resilience from Space?* AGU Fall Meeting, B23K-01.
+- **Song, K.** & Zhu, Z. (2024). *Unveiling Forest Resilience Changes in Response to Insect Disturbance: A Comprehensive Analysis Using PlanetScope Time Series.* Annual Meeting of the American Association of Geographers (AAG).
 - Zhu, Z., Suh, J. W., Hong, F., **Song, K.**, Qiu, S., Yang, Z., & Hedges, S. B. (2025). *Mapping Caribbean Primary Forest Change Considering Disturbance History, Resilience, and 3D Structure.* AGU Fall Meeting.
 
 ---
@@ -120,8 +120,8 @@ I developed the **Time-series-based Image Fusion (TIF)** algorithm to harmonize 
 
 ### Selected Conference Presentations
 
-- **Song, K. & Zhu, Z.** (2022). *Improved Subtle Change Detection Using Landsat and Sentinel-2 Data Fusion: A Study of Spongy Moth Outbreaks in New England Forests.* AGU Fall Meeting, B43B-08.
-- **Song, K. & Zhu, Z.** (2021). *Forest Disturbance Monitoring at 10 m Spatial Resolution Using Sentinel-2 Time Series.* AGU Fall Meeting, B45I-1732.
+- **Song, K.** & Zhu, Z. (2022). *Improved Subtle Change Detection Using Landsat and Sentinel-2 Data Fusion: A Study of Spongy Moth Outbreaks in New England Forests.* AGU Fall Meeting, B43B-08.
+- **Song, K.** & Zhu, Z. (2021). *Forest Disturbance Monitoring at 10 m Spatial Resolution Using Sentinel-2 Time Series.* AGU Fall Meeting, B45I-1732.
 
 ---
 
