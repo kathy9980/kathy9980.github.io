@@ -4,10 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<p style="font-size:1.05em; color:#666; margin-top:-8px; margin-bottom:22px;">
-  Ph.D. &nbsp;•&nbsp; Ecosystem Science & Human–Environment Systems &nbsp;•&nbsp; Remote Sensing & Geospatial AI
-</p>
-
 I develop my research program around a fundamental question: **How can we better understand and foster resilient human–environment systems in a rapidly changing world?** My research brings together **satellite remote sensing, field measurements, causal inference, and geospatial AI** to uncover how ecosystems and societies respond to disturbance, adapt to long-term change, and influence one another from local to global scales. My ultimate goal is to advance a **predictive and actionable science of resilience** that identifies emerging vulnerabilities, anticipates future change, and informs strategies to strengthen both natural and human systems.
 
 ---
@@ -15,7 +11,7 @@ I develop my research program around a fundamental question: **How can we better
 ## 1. Forest Resilience and Ecosystem Dynamics
 
 <p align="center" style="font-size:1.10em; padding:0 15px; margin:12px 0 28px 0;">
-<strong>How do forests and ecosystems respond to disturbance, recover from stress, and gain or lose resilience under global environmental change?</strong>
+<em>How do forests and ecosystems respond to disturbance, recover from stress, and gain or lose resilience under global environmental change?</em>
 </p>
 
 Lag-1 temporal autocorrelation (TAC) is one of the most widely used indicators of ecosystem resilience because increasing TAC can signal a system’s declining recovery rate from stress. However, its **ecological meaning has rarely been tested directly in real ecosystems**, limiting confidence in its use for large-scale resilience monitoring.
@@ -63,8 +59,8 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 
 ## 2. Urban and Human–Environment Systems
 
-<p align="center" style="font-size:1.25em;">
-<strong>How do human activities, infrastructure, and environmental change interact to reshape landscapes and the resilience of coupled human–natural systems?</strong>
+<p align="center" style="font-size:1.10em; padding:0 15px; margin:12px 0 28px 0;">
+<em>How do human activities, infrastructure, and environmental change interact to reshape landscapes and the resilience of coupled human–natural systems?</em>
 </p>
 
 ### Ongoing Research
@@ -81,9 +77,9 @@ We investigate how **conflict, human displacement, infrastructure expansion, and
   <p><em><strong>Fig. 4.</strong> Estimated effects of conflict-damage exposure on agricultural, forest, and impervious land-cover trajectories using a two-way fixed-effects framework.</em></p>
 </div>
 
-Our previous research examines human–environment interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization**, track the **increasing volatility of nighttime human activity**, and evaluate how **forest management can reduce storm-related risks to roadside infrastructure**.
+Our previous research examines human–environment interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization** and track the **increasing volatility of nighttime human activity**.
 
-Together, these studies show how human systems and environmental processes co-evolve across space and time, and how improved observation and management can support more resilient landscapes and communities.
+Together, these studies show how human systems and environmental processes co-evolve across space and time, and how improved observation can reveal complex trajectories of human activity and landscape change.
 
 ### Related Publications
 
@@ -91,14 +87,12 @@ Together, these studies show how human systems and environmental processes co-ev
 
 2. Li, T., Wang, Z., Kyba, C. C. M., Román, M. O., Seto, K. C., Yang, Y., Qiu, S., Kuester, T., et al. (2026). **Satellite imagery reveals increasing volatility in human night-time activity.** *Nature, 652*, 379–386.
 
-3. Worthley, T., Bunce, A., Morzillo, A. T., Witharana, C., Zhu, Z., Cabral, J., Crocker, E., et al. (2024). **Stormwise: Innovative Forest Management to Promote Storm Resistance in Roadside Forests.** *Journal of Forestry, 122*(4), 398–409.
-
 ---
 
 ## 3. Geospatial AI, Remote Sensing, and Methodological Innovation
 
-<p align="center" style="font-size:1.25em;">
-<strong>How can we develop more rigorous, reliable, and interpretable remote sensing and GeoAI methods to observe, understand, and predict land-system change across scales?</strong>
+<p align="center" style="font-size:1.10em; padding:0 15px; margin:12px 0 28px 0;">
+<em>How can we develop more rigorous, reliable, and interpretable remote sensing and GeoAI methods to observe, understand, and predict land-system change across scales?</em>
 </p>
 
 A central component of my research is developing methodological advances that improve how environmental change is observed from space. My work spans **multi-sensor satellite data fusion, dense time-series analysis, change detection, product evaluation, explainable machine learning, and geospatial AI**.
@@ -144,3 +138,7 @@ In collaboration with the [StormWise](https://stormwise.uconn.edu/) program and 
   </a>
   <p><em><strong>Fig. 7.</strong> Predicted roadside tree failure risk map. Click the figure to explore the interactive Google Earth Engine application.</em></p>
 </div>
+
+### Related Publications
+
+1. Worthley, T., Bunce, A., Morzillo, A. T., Witharana, C., Zhu, Z., Cabral, J., Crocker, E., et al. (2024). **Stormwise: Innovative Forest Management to Promote Storm Resistance in Roadside Forests.** *Journal of Forestry, 122*(4), 398–409.
