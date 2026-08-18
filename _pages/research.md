@@ -4,7 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-**Ph.D. | Ecosystem Science & Human–Environment Systems | Remote Sensing & Geospatial AI**
+<p style="font-size:1.05em; color:#666; margin-top:-8px; margin-bottom:22px;">
+  Ph.D. &nbsp;•&nbsp; Ecosystem Science & Human–Environment Systems &nbsp;•&nbsp; Remote Sensing & Geospatial AI
+</p>
 
 I develop my research program around a fundamental question: **How can we better understand and foster resilient human–environment systems in a rapidly changing world?** My research brings together **satellite remote sensing, field measurements, causal inference, and geospatial AI** to uncover how ecosystems and societies respond to disturbance, adapt to long-term change, and influence one another from local to global scales. My ultimate goal is to advance a **predictive and actionable science of resilience** that identifies emerging vulnerabilities, anticipates future change, and informs strategies to strengthen both natural and human systems.
 
