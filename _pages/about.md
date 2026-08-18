@@ -18,7 +18,7 @@ to advance our understanding of <strong>complex human–environment systems usin
 </p>
 
 <p>
-My research lies at the intersection of <strong>ecosystem science, human–environment systems, and geospatial data science</strong>. I integrate <strong>Earth observation, field measurements, causal inference, and AI</strong> to understand ecosystem resilience, human–environment disturbance and adaptation, and socio-ecological vulnerability across scales. I am particularly interested in translating these advances into applications for <strong>natural resource management, infrastructure resilience, forest carbon monitoring, and environmental policy</strong>. You can learn more about my work on the
+My research lies at the intersection of <strong>ecosystem science, human–environment systems, and geospatial data science</strong>. I integrate <strong>Earth observation, field measurements, causal inference, and AI</strong> to understand <strong>ecosystem resilience, human–environment disturbance and adaptation, and socio-ecological vulnerability</strong> across scales. I am particularly interested in translating this research into actionable insights for <strong>natural resource management, infrastructure resilience, forest carbon monitoring, and environmental policy</strong>. You can learn more about my work on the
 <strong>
   <a href="https://kathy9980.github.io/research/" target="_blank" style="color:#286DC0; text-decoration:underline;">
   Research</a></strong>
