@@ -26,6 +26,7 @@ author_profile: true
 .research-text-figure .research-figure img {
   width: 100%;
   height: auto;
+  display: block;
 }
 
 .research-text-figure .research-figure p {
@@ -128,6 +129,14 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
     We investigate how <strong>conflict, human displacement, infrastructure expansion, and environmental interventions</strong> reshape coupled human–natural systems. Current projects combine dense satellite time series with causal inference and geospatial AI to evaluate land-system changes associated with conflict and refugee displacement, emerging infrastructure such as data centers, and environmental management interventions.
     </p>
 
+    <p>
+    Our previous research examines human–environment interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the <strong>spiky, cyclical, and asynchronous nature of urbanization</strong> and track the <strong>increasing volatility of nighttime human activity</strong>.
+    </p>
+
+    <p>
+    Together, these studies show how human systems and environmental processes co-evolve across space and time, and how improved observation can reveal complex trajectories of human activity and landscape change.
+    </p>
+
   </div>
 
   <div class="research-figure">
@@ -143,10 +152,6 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
   <img src="/images/twfe_results_conflict_damage_exclusive_level.png" style="width:90%;">
   <p><em><strong>Fig. 4.</strong> Estimated effects of conflict-damage exposure on agricultural, forest, and impervious land-cover trajectories using a two-way fixed-effects framework.</em></p>
 </div>
-
-Our previous research examines human–environment interactions across cities, infrastructure, and managed landscapes. We use satellite observations and interdisciplinary approaches to reveal the **spiky, cyclical, and asynchronous nature of urbanization** and track the **increasing volatility of nighttime human activity**.
-
-Together, these studies show how human systems and environmental processes co-evolve across space and time, and how improved observation can reveal complex trajectories of human activity and landscape change.
 
 ### Related Publications
 
