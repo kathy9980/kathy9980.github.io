@@ -4,6 +4,49 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+.research-text-figure {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  margin: 10px 0 30px 0;
+}
+
+.research-text-figure .research-text {
+  flex: 1.15;
+  min-width: 0;
+}
+
+.research-text-figure .research-figure {
+  flex: 0.85;
+  min-width: 0;
+  text-align: center;
+}
+
+.research-text-figure .research-figure img {
+  width: 100%;
+  height: auto;
+}
+
+.research-text-figure .research-figure p {
+  margin-top: 8px;
+  font-size: 0.90em;
+  line-height: 1.35;
+}
+
+/* Stack text and figure on smaller screens */
+@media (max-width: 700px) {
+  .research-text-figure {
+    display: block;
+  }
+
+  .research-text-figure .research-figure {
+    margin-top: 20px;
+  }
+}
+</style>
+
+
 I develop my research program around a fundamental question: **How can we better understand and foster resilient human–environment systems in a rapidly changing world?** My research brings together **satellite remote sensing, field measurements, causal inference, and geospatial AI** to uncover how ecosystems and societies respond to disturbance, adapt to long-term change, and influence one another from local to global scales. My ultimate goal is to advance a **predictive and actionable science of resilience** that identifies emerging vulnerabilities, anticipates future change, and informs strategies to strengthen both natural and human systems.
 
 ---
@@ -14,13 +57,27 @@ I develop my research program around a fundamental question: **How can we better
 <em>How do forests and ecosystems respond to disturbance, recover from stress, and gain or lose resilience under global environmental change?</em>
 </p>
 
-Lag-1 temporal autocorrelation (TAC) is one of the most widely used indicators of ecosystem resilience because increasing TAC can signal a system’s declining recovery rate from stress. However, its **ecological meaning has rarely been tested directly in real ecosystems**, limiting confidence in its use for large-scale resilience monitoring.
+<div class="research-text-figure">
 
-In our study, we combine satellite time series with field-based physiological measurements to connect patterns observed from space with the mechanisms that govern vegetation resistance to drought. In the Amazon, we demonstrated that a Landsat-derived TAC captures meaningful variation in community-level hydraulic safety margin. We also provide **methodological guidance for robust satellite-based TAC estimation**, identifying appropriate temporal frequencies, rolling-window lengths, and vegetation state variables.
+  <div class="research-text">
 
-<div align="center">
-  <img src="/images/Fig1_ball_and_cup_combined_v3_thermal_r.png" style="width:60%;">
-  <p><em><strong>Fig. 1.</strong> A conceptual basin stability diagram illustrating how observational frequency influences estimates of ecosystem resilience.</em></p>
+    <p>
+    Lag-1 temporal autocorrelation (TAC) is one of the most widely used indicators of ecosystem resilience because increasing TAC can signal a system’s declining recovery rate from stress. However, its <strong>ecological meaning has rarely been tested directly in real ecosystems</strong>, limiting confidence in its use for large-scale resilience monitoring.
+    </p>
+
+    <p>
+    In our study, we combine satellite time series with field-based physiological measurements to connect patterns observed from space with the mechanisms that govern vegetation resistance to drought. In the Amazon, we demonstrated that a Landsat-derived TAC captures meaningful variation in community-level hydraulic safety margin. We also provide <strong>methodological guidance for robust satellite-based TAC estimation</strong>, identifying appropriate temporal frequencies, rolling-window lengths, and vegetation state variables.
+    </p>
+
+  </div>
+
+  <div class="research-figure">
+    <img src="/images/Fig1_ball_and_cup_combined_v3_thermal_r.png">
+    <p>
+      <em><strong>Fig. 1.</strong> A conceptual basin stability diagram illustrating how observational frequency influences estimates of ecosystem resilience.</em>
+    </p>
+  </div>
+
 </div>
 
 My work also evaluates forest disturbance dynamics using dense satellite time series, with a particular focus on detecting disturbance timing, severity, and recovery under diverse natural and anthropogenic stressors.
@@ -63,12 +120,23 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 <em>How do human activities, infrastructure, and environmental change interact to reshape landscapes and the resilience of coupled human–natural systems?</em>
 </p>
 
+<div class="research-text-figure">
 
-We investigate how **conflict, human displacement, infrastructure expansion, and environmental interventions** reshape coupled human–natural systems. Current projects combine dense satellite time series with causal inference and geospatial AI to evaluate land-system changes associated with conflict and refugee displacement, emerging infrastructure such as data centers, and environmental management interventions.
+  <div class="research-text">
 
-<div align="center">
-  <img src="/images/land_change_map_2014_2026_web.webp" style="width:65%;">
-  <p><em><strong>Fig. 3.</strong> Satellite-derived land disturbance trajectories across northern Rakhine State, Myanmar, and refugee settlements in Bangladesh. Examples illustrate landscape changes before, during, and after major conflict and displacement events.</em></p>
+    <p>
+    We investigate how <strong>conflict, human displacement, infrastructure expansion, and environmental interventions</strong> reshape coupled human–natural systems. Current projects combine dense satellite time series with causal inference and geospatial AI to evaluate land-system changes associated with conflict and refugee displacement, emerging infrastructure such as data centers, and environmental management interventions.
+    </p>
+
+  </div>
+
+  <div class="research-figure">
+    <img src="/images/land_change_map_2014_2026_web.webp">
+    <p>
+      <em><strong>Fig. 3.</strong> Satellite-derived land disturbance trajectories across northern Rakhine State, Myanmar, and refugee settlements in Bangladesh. Examples illustrate landscape changes before, during, and after major conflict and displacement events.</em>
+    </p>
+  </div>
+
 </div>
 
 <div align="center">
