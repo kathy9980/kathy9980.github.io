@@ -26,7 +26,7 @@ page.
 </p>
 
 <p>
-Outside of research, I enjoy hiking, playing badminton, spending time with my dog, and exploring how data can help us better understand our changing planet.
+Outside of research, I enjoy hiking, playing badminton and tennis, spending time with my dog, and reading books.
 </p>
 
 <h2>Education</h2>
