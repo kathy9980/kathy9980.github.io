@@ -7,7 +7,7 @@ author_profile: true
 <div style="text-align: justify;">
 
 <p>
-I am a remote sensing data scientist and Postdoctoral Associate at the Yale School of the Environment, where I work with Dr. Luke C. Sanford in the Study of Politics and Institutions with Remote Environmental Sensing
+I am an interdisciplinary Earth scientist and Postdoctoral Associate at the Yale School of the Environment, where I work with Dr. Luke C. Sanford in the Study of Politics and Institutions with Remote Environmental Sensing
 <strong>
   <a href="https://sanford-lab.github.io/" target="_blank" style="color:#286DC0; text-decoration:underline;">
   (SPIRES) Lab</a></strong>
