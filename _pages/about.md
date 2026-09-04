@@ -38,4 +38,4 @@ Outside of research, I enjoy hiking, playing badminton and tennis, spending time
 
 </div>
 
-*Last updated on: Aug, 2026*
+*Last updated on: Sep, 2026*
