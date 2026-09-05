@@ -11,6 +11,8 @@ author_profile: true
 
 **September.** My paper, *Physiological Fidelity of a Satellite-Derived Forest Resilience Indicator in the Amazon*, was selected as the **cover article** for the September 2026 issue of **Nature Ecology & Evolution**. [View the issue cover](https://www.nature.com/natecolevol/volumes/10/issues/9) · [Read the paper](https://www.nature.com/articles/s41559-026-03116-z#article-info).
 
+<div style="text-align:center; margin:18px 0 28px 0;"> <a href="https://www.nature.com/natecolevol/volumes/10/issues/9" target="_blank"> <img src="/images/neecover.png" alt="Nature Ecology & Evolution September 2026 cover" style="width:100%; max-width:380px; height:auto; border-radius:4px;" > </a> </div>
+
 **July.** My panel proposal, **Who Writes the Map? AI, Authorship, and Publishing**, was accepted at the [**Harvard CGA 20th Anniversary Annual Conference**](https://gis.harvard.edu/2026-cga-conference-celebrating-geographic-analysis-past-present-and-future) (October 2–3, 2026), where I will serve as the panel organizer and moderator.  If you'll be attending and are interested in AI, geospatial science, or scientific publishing, feel free to reach out.
 
 **July.** Published *Physiological Fidelity of a Satellite-Derived Forest Resilience Indicator in the Amazon* in **Nature Ecology & Evolution**. [Read the paper](https://www.nature.com/articles/s41559-026-03116-z#article-info).
