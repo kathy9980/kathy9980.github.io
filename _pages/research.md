@@ -159,7 +159,7 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 
 2. Li, T., Wang, Z., Kyba, C. C. M., Román, M. O., Seto, K. C., Yang, Y., Qiu, S., Kuester, T., et al. (2026). **Satellite imagery reveals increasing volatility in human night-time activity.** *Nature, 652*, 379–386.
 
-3. **Song, K.** & Sanford, L. (*in prep*). **Seeing like a satellite: How to effectively use remote sensing data for social science inquiry.**
+3. Sanford, L. & **Song, K.** (*in prep*). **Seeing like a satellite: How to effectively use remote sensing data for social science inquiry.**
 
 ---
 
