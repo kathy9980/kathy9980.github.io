@@ -52,7 +52,7 @@ I develop my research program around a fundamental question: **How can we better
 
 ---
 
-## 1. Forest Resilience and Ecosystem Dynamics
+## 1. Vegetation Resilience and Ecosystem Dynamics
 
 <p align="center" style="font-size:1.10em; padding:0 15px; margin:12px 0 28px 0;">
 <em>How do forests and ecosystems respond to disturbance, recover from stress, and gain or lose resilience under global environmental change?</em>
@@ -115,10 +115,10 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 
 ---
 
-## 2. Urban and Human–Environment Systems
+## 2. Environmental Governance, Urbanization, and Socio-Ecological Systems
 
 <p align="center" style="font-size:1.10em; padding:0 15px; margin:12px 0 28px 0;">
-<em>How do human activities, infrastructure, and environmental change interact to reshape landscapes and the resilience of coupled human–natural systems?</em>
+<em>How do human behavior, governance, and infrastructure interact with environmental change to reshape landscapes and influence the resilience of coupled human–natural systems?</em>
 </p>
 
 <div class="research-text-figure">
