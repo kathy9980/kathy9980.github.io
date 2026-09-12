@@ -166,10 +166,10 @@ My work also evaluates forest disturbance dynamics using dense satellite time se
 ## 3. Geospatial AI, Remote Sensing, and Methodological Innovation
 
 <p align="center" style="font-size:1.10em; padding:0 15px; margin:12px 0 28px 0;">
-<em>How can we develop more rigorous, reliable, and interpretable remote sensing and GeoAI methods to observe, understand, and predict land-system change across scales?</em>
+<em>How to connect big data, artificial intelligence, and high-performance computing to solve contemporary Earth and environmental challenges?</em>
 </p>
 
-A central component of my research is developing methodological advances that improve how environmental change is observed from space. My work spans **multi-sensor satellite data fusion, dense time-series analysis, change detection, product evaluation, explainable machine learning, and geospatial AI**.
+A central thread of my research developing methodological frameworks to monitor, model, and anticipate land-system change from local to planetary scale. My work spans **multi-sensor satellite data fusion, change detection, explainable machine learning, geospatial active learning, and physics-informed neural networks**.
 
 ### Multi-sensor Satellite Data Fusion for Advanced Land Monitoring
 
