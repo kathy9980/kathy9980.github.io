@@ -11,13 +11,13 @@ Upcoming
 
 **December 7–11, 2026.** I will present research on conflict- and displacement-driven land-system change at the **AGU Annual Meeting** in San Francisco, California. The study integrates satellite time series, nighttime lights, geospatial AI, and causal inference to examine landscape change in northern Rakhine State and Cox’s Bazar.
 
-**October 2–3, 2026.** I will organize and moderate the panel **Who Writes the Map? AI, Authorship, and Publishing** at the [**Harvard CGA 20th Anniversary Annual Conference**](https://gis.harvard.edu/2026-cga-conference-celebrating-geographic-analysis-past-present-and-future). The panel will explore how generative AI is reshaping authorship, peer review, and scholarly publishing in geography and geospatial science.
-
-**September 15–17, 2026.** I will attend the [**Google Geo for Good Earth Engine MAP Partner Summit**](https://earthoutreachonair.withgoogle.com/events/geoforgood26-map) in Mountain View, California, connecting with the Earth Engine and geospatial AI communities around applications for planetary sustainability and human resilience.
-
 <h2 style="border-bottom:1px solid #d9d9d9; padding-bottom:6px; margin-top:40px; margin-bottom:20px;">
 2026
 </h2>
+
+**October 2–3, 2026.** Organized and moderated the panel **Who Writes the Map? AI, Authorship, and Publishing** at the [**Harvard CGA 20th Anniversary Annual Conference**](https://gis.harvard.edu/2026-cga-conference-celebrating-geographic-analysis-past-present-and-future). The panel explored how generative AI is reshaping authorship, peer review, and scholarly publishing in geography and geospatial science.
+
+**September 15–17, 2026.** Attended the [**Google Geo for Good Earth Engine MAP Partner Summit**](https://earthoutreachonair.withgoogle.com/events/geoforgood26-map) in Mountain View, California, connecting with the Earth Engine and geospatial AI communities around applications for planetary sustainability and human resilience.
 
 **September.** My paper, *Physiological Fidelity of a Satellite-Derived Forest Resilience Indicator in the Amazon*, was selected as the **cover article** for the September 2026 issue of **Nature Ecology & Evolution**. [View the issue cover](https://www.nature.com/natecolevol/volumes/10/issues/9) · [Read the paper](https://www.nature.com/articles/s41559-026-03116-z#article-info).
 
