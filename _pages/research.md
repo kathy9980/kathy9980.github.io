@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
+page_class: readable-page
 ---
 
 <style>

@@ -107,6 +107,20 @@
   }
 }
 
+/* Keep long-form pages comfortable to read without shrinking figures or media. */
+.readable-page {
+  .page__content > p,
+  .page__content > ul,
+  .page__content > ol,
+  &.archive > p,
+  &.archive > ul,
+  &.archive > ol {
+    max-width: 75ch;
+    margin-right: auto;
+    text-align: left;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

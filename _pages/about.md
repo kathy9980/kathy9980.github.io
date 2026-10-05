@@ -2,9 +2,8 @@
 title: "About Me"
 permalink: /
 author_profile: true
+page_class: readable-page
 ---
-
-<div style="text-align: justify;">
 
 <p>
 I am an interdisciplinary Earth scientist and Postdoctoral Associate at the Yale School of the Environment, where I work with Dr. Luke C. Sanford in the Study of Politics and Institutions with Remote Environmental Sensing
@@ -35,7 +34,5 @@ Outside of research, I enjoy hiking, playing badminton and tennis, spending time
   <li><strong>M.Sc.</strong> Meteorology and Physical Oceanography, University of Miami, 2020</li>
   <li><strong>B.Sc.</strong> Marine Technology, Ocean University of China, 2018</li>
 </ul>
-
-</div>
 
 *Last updated on: Sep, 2026*

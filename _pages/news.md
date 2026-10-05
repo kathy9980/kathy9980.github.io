@@ -3,6 +3,7 @@ layout: archive
 title: "News"
 permalink: /news/
 author_profile: true
+page_class: readable-page
 ---
 
 <h2 style="border-bottom:1px solid #d9d9d9; padding-bottom:6px; margin-bottom:20px;">
