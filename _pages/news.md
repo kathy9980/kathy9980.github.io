@@ -10,6 +10,8 @@ page_class: readable-page
 Upcoming
 </h2>
 
+**AAG 2027 — Call for abstracts.** I am co-organizing **Causal Inference in the Geospatial Context: Applications, Progress, and Challenges** with Chengbin Deng. We welcome contributions on methods, applications, and challenges in using geospatial data to address causal questions across geography and related fields. [View session details](https://aag.secure-platform.com/aag2027/solicitations/103/sessiongallery/26190).
+
 **December 7–11, 2026.** I will present research on conflict- and displacement-driven land-system change at the **AGU Annual Meeting** in San Francisco, California. The study integrates satellite time series, nighttime lights, geospatial AI, and causal inference to examine landscape change in northern Rakhine State and Cox’s Bazar.
 
 <h2 style="border-bottom:1px solid #d9d9d9; padding-bottom:6px; margin-top:40px; margin-bottom:20px;">
@@ -36,7 +38,7 @@ Upcoming
 
 **May.** Presented research on GeoAI, remote sensing, and causal inference at the [**AI for Social Science Research Methods Workshop**](https://www.linkedin.com/posts/kexin-song-98b196149_ai-llm-geoai-ugcPost-7463797776829833216-fMvh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPM4vsBGCM7srffXJdl8rNdbizuHiD7Xkg) at Yale University. My poster was selected as one of three outstanding posters.
 
-<div align="center" style="margin:18px 0;">
+<div style="max-width:75ch; text-align:center; margin:18px auto 18px 0;">
   <img src="/images/conference.jpeg" alt="Poster presentation at the Yale AI for Social Science Research Methods Workshop" style="width:45%;">
   <p><em>Poster presentation at the Yale AI for Social Science Research Methods Workshop.</em></p>
 </div>
@@ -53,7 +55,7 @@ Upcoming
 
 **December.** Successfully defended my Ph.D. in Natural Resources and the Environment at the University of Connecticut.
 
-<div align="center" style="margin:18px 0;">
+<div style="max-width:75ch; text-align:center; margin:18px auto 18px 0;">
   <img src="/images/defense.JPG" alt="Ph.D. dissertation defense at the University of Connecticut" style="width:45%;">
   <p><em>Ph.D. dissertation defense at the University of Connecticut.</em></p>
 </div>
