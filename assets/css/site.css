@@ -137,6 +137,9 @@ p { margin: 0 0 1.15rem; }
 .page-content li { margin-bottom: .55rem; }
 .question { margin: 0 0 2rem; color: var(--label); font-size: 1.165rem; font-style: italic; font-weight: 700; }
 .split-feature { display: grid; grid-template-columns: 1.15fr .85fr; gap: 2rem; align-items: center; margin: 1.5rem 0 2.5rem; padding: 1.5rem; background: var(--wash); }
+.infrastructure-projects { margin: 1.5rem 0 2.5rem; padding: 1.5rem; background: var(--wash); }
+.infrastructure-projects > :first-child { margin-top: 0; }
+.infrastructure-projects > :last-child { margin-bottom: 0; }
 .figure { margin: 2rem 0; text-align: center; }
 .figure img { width: 100%; max-height: 35rem; object-fit: contain; }
 .figure figcaption { margin-top: .65rem; color: var(--muted); font-size: 0.945rem; line-height: 1.5; }
@@ -198,6 +201,7 @@ p { margin: 0 0 1.15rem; }
   .news-card { display: flex; grid-row: auto; flex-direction: column; min-height: 0; }
   .news-card a { align-self: flex-start; }
   .split-feature { grid-template-columns: 1fr; padding: 1rem; }
+  .infrastructure-projects { padding: 1rem; }
   .footer-row { flex-direction: column; align-items: flex-start; }
 }
 
